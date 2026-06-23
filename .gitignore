@@ -1,0 +1,8 @@
+# Assets gerados localmente
+assets/raw/
+*.psd
+*.ai
+
+# System
+.DS_Store
+Thumbs.db

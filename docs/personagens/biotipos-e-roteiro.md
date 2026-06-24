@@ -17,33 +17,51 @@
 }
 .char-desc {
   flex: 1;
-  min-width: 300px;
+  min-width: 280px;
+}
+.char-desc table {
+  width: 100%;
+}
+.char-desc td {
+  padding: 3px 6px;
+  font-size: 0.9rem;
 }
 .char-gallery {
   flex: 0 0 auto;
   display: flex;
   flex-direction: column;
-  gap: 8px;
-  max-width: 220px;
+  gap: 10px;
+  max-width: 200px;
 }
-.char-gallery img {
+.char-gallery .img-wrap {
+  background: #0a0a0a;
+  border-radius: 10px;
+  border: 1px solid #2a2a2a;
+  overflow: hidden;
+  padding: 4px;
+  text-align: center;
+}
+.char-gallery .img-wrap img {
   width: 100%;
   height: auto;
   border-radius: 6px;
-  border: 1px solid #333;
-  background: repeating-conic-gradient(#1a1a1a 0% 25%, #222 0% 50%) 50% / 20px 20px;
+  display: block;
 }
 .char-gallery .photo-label {
   font-size: 0.7rem;
   color: #666;
   text-align: center;
-  margin-top: -4px;
-  margin-bottom: 4px;
+  margin-top: 4px;
+  letter-spacing: 0.05em;
+}
+/* Special style for recortes - they have real transparency */
+.char-gallery .img-wrap.recorte {
+  background: repeating-conic-gradient(#1a1a1a 0% 25%, #222 0% 50%) 50% / 16px 16px;
 }
 @media (max-width: 700px) {
   .char-block { flex-direction: column; }
   .char-gallery { flex-direction: row; flex-wrap: wrap; max-width: 100%; }
-  .char-gallery img { width: 100px; }
+  .char-gallery .img-wrap { width: 120px; }
 }
 </style>
 
@@ -76,17 +94,17 @@
 </div>
 
 <div class="char-gallery">
-  <img src="../../assets/images/transparent/bambusa.png" alt="Bambusa principal">
+  <div class="img-wrap recorte"><img src="../../assets/images/transparent/bambusa.png" alt="Bambusa principal"></div>
   <div class="photo-label">Principal</div>
-  <img src="../../assets/images/variacoes/bambusa-a-photo-of-a-muppet-show-.png" alt="Bambusa visual 2">
+  <div class="img-wrap recorte"><img src="../../assets/images/variacoes/bambusa-a-photo-of-a-muppet-show-.png" alt="Bambusa visual 2"></div>
   <div class="photo-label">Visual 2</div>
-  <img src="../../assets/images/variacoes/bambusa-a-photo-of-a-muppet-style.png" alt="Bambusa visual 3">
+  <div class="img-wrap recorte"><img src="../../assets/images/variacoes/bambusa-a-photo-of-a-muppet-style.png" alt="Bambusa visual 3"></div>
   <div class="photo-label">Visual 3</div>
-  <img src="../../assets/images/variacoes/bambusa-a-photo-of-a-puppet-chara.png" alt="Bambusa visual 4">
+  <div class="img-wrap recorte"><img src="../../assets/images/variacoes/bambusa-a-photo-of-a-puppet-chara.png" alt="Bambusa visual 4"></div>
   <div class="photo-label">Visual 4</div>
-  <img src="../../assets/images/variacoes/bambusa-a-photo-of-a-puppet-with-.png" alt="Bambusa visual 5">
+  <div class="img-wrap recorte"><img src="../../assets/images/variacoes/bambusa-a-photo-of-a-puppet-with-.png" alt="Bambusa visual 5"></div>
   <div class="photo-label">Visual 5</div>
-  <img src="../../assets/images/variacoes/bambusa-recorte-Bambusa.png" alt="Bambusa recorte">
+  <div class="img-wrap recorte"><img src="../../assets/images/variacoes/bambusa-recorte-Bambusa.png" alt="Bambusa recorte"></div>
   <div class="photo-label">Recorte PNG</div>
 </div>
 
@@ -117,13 +135,13 @@
 </div>
 
 <div class="char-gallery">
-  <img src="../../assets/images/transparent/vulgaris.png" alt="Vulgaris principal">
+  <div class="img-wrap"><img src="../../assets/images/transparent/vulgaris.png" alt="Vulgaris principal"></div>
   <div class="photo-label">Principal</div>
-  <img src="../../assets/images/variacoes/vulgaris-var1.png" alt="Vulgaris var 1">
+  <div class="img-wrap"><img src="../../assets/images/variacoes/vulgaris-var1.png" alt="Vulgaris var 1"></div>
   <div class="photo-label">Variação 1</div>
-  <img src="../../assets/images/variacoes/vulgaris-var2.png" alt="Vulgaris var 2">
+  <div class="img-wrap"><img src="../../assets/images/variacoes/vulgaris-var2.png" alt="Vulgaris var 2"></div>
   <div class="photo-label">Variação 2</div>
-  <img src="../../assets/images/variacoes/vulgaris-var3.png" alt="Vulgaris var 3">
+  <div class="img-wrap"><img src="../../assets/images/variacoes/vulgaris-var3.png" alt="Vulgaris var 3"></div>
   <div class="photo-label">Variação 3</div>
 </div>
 
@@ -153,21 +171,21 @@
 </div>
 
 <div class="char-gallery">
-  <img src="../../assets/images/transparent/sabia-mamona.png" alt="Sabia-mamona">
+  <div class="img-wrap"><img src="../../assets/images/transparent/sabia-mamona.png" alt="Sabia-mamona"></div>
   <div class="photo-label">Perfil 1</div>
-  <img src="../../assets/images/variacoes/sabia-mamona-var2.png" alt="Sabia-mamona 2">
+  <div class="img-wrap"><img src="../../assets/images/variacoes/sabia-mamona-var2.png" alt="Sabia-mamona 2"></div>
   <div class="photo-label">Perfil 2</div>
-  <img src="../../assets/images/variacoes/sabia-mamona-var3.png" alt="Sabia-mamona 3">
+  <div class="img-wrap"><img src="../../assets/images/variacoes/sabia-mamona-var3.png" alt="Sabia-mamona 3"></div>
   <div class="photo-label">Perfil 3</div>
-  <img src="../../assets/images/variacoes/sabia-mamona-var4.png" alt="Sabia-mamona 4">
+  <div class="img-wrap"><img src="../../assets/images/variacoes/sabia-mamona-var4.png" alt="Sabia-mamona 4"></div>
   <div class="photo-label">Perfil 4</div>
-  <img src="../../assets/images/variacoes/sabia-mamona-var5.png" alt="Sabia-mamona 5">
+  <div class="img-wrap"><img src="../../assets/images/variacoes/sabia-mamona-var5.png" alt="Sabia-mamona 5"></div>
   <div class="photo-label">Perfil 5</div>
-  <img src="../../assets/images/variacoes/sabia-mamona-var6.png" alt="Sabia-mamona 6">
+  <div class="img-wrap"><img src="../../assets/images/variacoes/sabia-mamona-var6.png" alt="Sabia-mamona 6"></div>
   <div class="photo-label">Perfil 6</div>
-  <img src="../../assets/images/variacoes/sabia-mamona-var7.png" alt="Sabia-mamona 7">
+  <div class="img-wrap"><img src="../../assets/images/variacoes/sabia-mamona-var7.png" alt="Sabia-mamona 7"></div>
   <div class="photo-label">Perfil 7</div>
-  <img src="../../assets/images/variacoes/sabia-mamona-var8.png" alt="Sabia-mamona 8">
+  <div class="img-wrap"><img src="../../assets/images/variacoes/sabia-mamona-var8.png" alt="Sabia-mamona 8"></div>
   <div class="photo-label">Perfil 8</div>
 </div>
 
@@ -197,7 +215,7 @@
 </div>
 
 <div class="char-gallery">
-  <img src="../../assets/images/transparent/cacique-asper.png" alt="Cacique-Asper">
+  <div class="img-wrap"><img src="../../assets/images/transparent/cacique-asper.png" alt="Cacique-Asper"></div>
   <div class="photo-label">Única variação</div>
 </div>
 
@@ -227,7 +245,7 @@
 </div>
 
 <div class="char-gallery">
-  <img src="../../assets/images/transparent/taboca.png" alt="Taboca">
+  <div class="img-wrap"><img src="../../assets/images/transparent/taboca.png" alt="Taboca"></div>
   <div class="photo-label">Única variação</div>
 </div>
 
@@ -258,13 +276,13 @@
 </div>
 
 <div class="char-gallery">
-  <img src="../../assets/images/transparent/dr-burocrata.png" alt="Dr. Burocrata">
+  <div class="img-wrap"><img src="../../assets/images/transparent/dr-burocrata.png" alt="Dr. Burocrata"></div>
   <div class="photo-label">Principal</div>
-  <img src="../../assets/images/variacoes/dr-burocrata-var2.png" alt="Dr. Burocrata 2">
+  <div class="img-wrap"><img src="../../assets/images/variacoes/dr-burocrata-var2.png" alt="Dr. Burocrata 2"></div>
   <div class="photo-label">Variação 2</div>
-  <img src="../../assets/images/variacoes/dr-burocrata-var3.png" alt="Dr. Burocrata 3">
+  <div class="img-wrap"><img src="../../assets/images/variacoes/dr-burocrata-var3.png" alt="Dr. Burocrata 3"></div>
   <div class="photo-label">Variação 3</div>
-  <img src="../../assets/images/variacoes/dr-burocrata-var4.png" alt="Dr. Burocrata 4">
+  <div class="img-wrap"><img src="../../assets/images/variacoes/dr-burocrata-var4.png" alt="Dr. Burocrata 4"></div>
   <div class="photo-label">Variação 4</div>
 </div>
 
@@ -294,7 +312,7 @@
 </div>
 
 <div class="char-gallery">
-  <img src="../../assets/images/transparent/tuldoides.png" alt="Tuldoides">
+  <div class="img-wrap"><img src="../../assets/images/transparent/tuldoides.png" alt="Tuldoides"></div>
   <div class="photo-label">Única variação</div>
 </div>
 
@@ -325,13 +343,13 @@
 </div>
 
 <div class="char-gallery">
-  <img src="../../assets/images/transparent/dr-motosserra.png" alt="Dr. Motosserra">
+  <div class="img-wrap"><img src="../../assets/images/transparent/dr-motosserra.png" alt="Dr. Motosserra"></div>
   <div class="photo-label">Principal</div>
-  <img src="../../assets/images/variacoes/dr-motosserra-var2.png" alt="Dr. Motosserra 2">
+  <div class="img-wrap"><img src="../../assets/images/variacoes/dr-motosserra-var2.png" alt="Dr. Motosserra 2"></div>
   <div class="photo-label">Variação 2</div>
-  <img src="../../assets/images/variacoes/dr-motosserra-var3.png" alt="Dr. Motosserra 3">
+  <div class="img-wrap"><img src="../../assets/images/variacoes/dr-motosserra-var3.png" alt="Dr. Motosserra 3"></div>
   <div class="photo-label">Variação 3</div>
-  <img src="../../assets/images/variacoes/dr-motosserra-var4.png" alt="Dr. Motosserra 4">
+  <div class="img-wrap"><img src="../../assets/images/variacoes/dr-motosserra-var4.png" alt="Dr. Motosserra 4"></div>
   <div class="photo-label">Variação 4</div>
 </div>
 

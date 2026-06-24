@@ -59,8 +59,9 @@ markdown_extensions:
 nav:
   - Início: index.md
   - Personagens:
+    - Elenco Completo: personagens/elenco.md
     - Template: personagens/template.md
-    - Personagem 1: personagens/personagem-01.md
+    - Personagem 01: personagens/personagem-01.md
   - Workflow:
     - Google Flow: workflow/google-flow.md
     - Referência Rápida: workflow/referencia-rapida.md

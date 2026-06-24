@@ -9,3 +9,12 @@ site/
 # System
 .DS_Store
 Thumbs.db
+
+
+# Raw assets - original large files (local reference only)
+assets/raw/*.png
+assets/raw/*.jpg
+assets/raw/*.jpeg
+assets/raw/*.mp4
+assets/raw/*.mov
+!assets/raw/README.md

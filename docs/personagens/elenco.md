@@ -11,7 +11,7 @@
 <div class="char-portrait">
 <div class="char-portrait" style="display:flex; gap:10px; float:right; margin-left:1rem;">
 <img src="../../assets/svg/bambusa.svg" alt="Bambusa avatar" width="140">
-<img src="../../assets/images/bambusa.png" alt="Bambusa real" width="140">
+<img src="../../assets/images/bambusa.jpg" alt="Bambusa real" width="140">
 </div>
 </div>
 
@@ -36,7 +36,7 @@
 <div class="char-portrait">
 <div class="char-portrait" style="display:flex; gap:10px; float:right; margin-left:1rem;">
 <img src="../../assets/svg/vulgaris.svg" alt="Vulgaris avatar" width="140">
-<img src="../../assets/images/vulgaris.png" alt="Vulgaris real" width="140">
+<img src="../../assets/images/vulgaris.jpg" alt="Vulgaris real" width="140">
 </div>
 </div>
 
@@ -59,7 +59,7 @@
 <div class="char-portrait">
 <div class="char-portrait" style="display:flex; gap:10px; float:right; margin-left:1rem;">
 <img src="../../assets/svg/sabia-mamona.svg" alt="Sabia-mamona avatar" width="140">
-<img src="../../assets/images/sabia-mamona.png" alt="Sabia-mamona real" width="140">
+<img src="../../assets/images/sabia-mamona.jpg" alt="Sabia-mamona real" width="140">
 </div>
 </div>
 
@@ -83,7 +83,7 @@
 <div class="char-portrait">
 <div class="char-portrait" style="display:flex; gap:10px; float:right; margin-left:1rem;">
 <img src="../../assets/svg/cacique-asper.svg" alt="Cacique-Asper avatar" width="140">
-<img src="../../assets/images/cacique-asper.png" alt="Cacique-Asper real" width="140">
+<img src="../../assets/images/cacique-asper.jpg" alt="Cacique-Asper real" width="140">
 </div>
 </div>
 
@@ -107,7 +107,7 @@
 <div class="char-portrait">
 <div class="char-portrait" style="display:flex; gap:10px; float:right; margin-left:1rem;">
 <img src="../../assets/svg/taboca.svg" alt="Taboca avatar" width="140">
-<img src="../../assets/images/taboca.png" alt="Taboca real" width="140">
+<img src="../../assets/images/taboca.jpg" alt="Taboca real" width="140">
 </div>
 </div>
 
@@ -131,7 +131,7 @@
 <div class="char-portrait">
 <div class="char-portrait" style="display:flex; gap:10px; float:right; margin-left:1rem;">
 <img src="../../assets/svg/dr-burocrata.svg" alt="Dr. Burocrata avatar" width="140">
-<img src="../../assets/images/dr-burocrata.png" alt="Dr. Burocrata real" width="140">
+<img src="../../assets/images/dr-burocrata.jpg" alt="Dr. Burocrata real" width="140">
 </div>
 </div>
 
@@ -155,7 +155,7 @@
 <div class="char-portrait">
 <div class="char-portrait" style="display:flex; gap:10px; float:right; margin-left:1rem;">
 <img src="../../assets/svg/tuldoides.svg" alt="Tuldoides avatar" width="140">
-<img src="../../assets/images/tuldoides.png" alt="Tuldoides real" width="140">
+<img src="../../assets/images/tuldoides.jpg" alt="Tuldoides real" width="140">
 </div>
 </div>
 
@@ -179,7 +179,7 @@
 <div class="char-portrait">
 <div class="char-portrait" style="display:flex; gap:10px; float:right; margin-left:1rem;">
 <img src="../../assets/svg/dr-motosserra.svg" alt="Dr. Motosserra avatar" width="140">
-<img src="../../assets/images/dr-motosserra.png" alt="Dr. Motosserra real" width="140">
+<img src="../../assets/images/dr-motosserra.jpg" alt="Dr. Motosserra real" width="140">
 </div>
 </div>
 

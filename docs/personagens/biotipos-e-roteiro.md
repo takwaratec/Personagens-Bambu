@@ -94,15 +94,15 @@
 </div>
 
 <div class="char-gallery">
-  <div class="img-wrap recorte"><img src="../../assets/images/transparent/bambusa.png" alt="Bambusa principal"></div>
+  <div class="img-wrap"><img src="../../assets/images/transparent/bambusa.png" alt="Bambusa principal"></div>
   <div class="photo-label">Principal</div>
-  <div class="img-wrap recorte"><img src="../../assets/images/variacoes/bambusa-a-photo-of-a-muppet-show-.png" alt="Bambusa visual 2"></div>
+  <div class="img-wrap"><img src="../../assets/images/variacoes/bambusa-a-photo-of-a-muppet-show-.png" alt="Bambusa visual 2"></div>
   <div class="photo-label">Visual 2</div>
-  <div class="img-wrap recorte"><img src="../../assets/images/variacoes/bambusa-a-photo-of-a-muppet-style.png" alt="Bambusa visual 3"></div>
+  <div class="img-wrap"><img src="../../assets/images/variacoes/bambusa-a-photo-of-a-muppet-style.png" alt="Bambusa visual 3"></div>
   <div class="photo-label">Visual 3</div>
-  <div class="img-wrap recorte"><img src="../../assets/images/variacoes/bambusa-a-photo-of-a-puppet-chara.png" alt="Bambusa visual 4"></div>
+  <div class="img-wrap"><img src="../../assets/images/variacoes/bambusa-a-photo-of-a-puppet-chara.png" alt="Bambusa visual 4"></div>
   <div class="photo-label">Visual 4</div>
-  <div class="img-wrap recorte"><img src="../../assets/images/variacoes/bambusa-a-photo-of-a-puppet-with-.png" alt="Bambusa visual 5"></div>
+  <div class="img-wrap"><img src="../../assets/images/variacoes/bambusa-a-photo-of-a-puppet-with-.png" alt="Bambusa visual 5"></div>
   <div class="photo-label">Visual 5</div>
   <div class="img-wrap recorte"><img src="../../assets/images/variacoes/bambusa-recorte-Bambusa.png" alt="Bambusa recorte"></div>
   <div class="photo-label">Recorte PNG</div>

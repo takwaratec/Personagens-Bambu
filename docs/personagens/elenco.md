@@ -10,7 +10,7 @@
 
 | Campo | Valor |
 |---|---|
-| **Gênero** | *Bambusa* + *Phyllostachys* — espécies exóticas de grande poder invasivo, abundantes em território nacional |
+| **Gênero botânico** | *Bambusa* + *Phyllostachys* — espécies exóticas de grande poder invasivo, abundantes em território nacional |
 | **Gênero do personagem** | **Feminino** |
 | **Função** | **Âncora / Mascote do time** — Apresenta o universo do bambu e cada personagem |
 | **Arquétipo** | A Anfitriã / A Alegria / O Sorriso do Bambu |
@@ -19,6 +19,7 @@
 | **Temática** | A introdução ao universo do bambu — a planta que é ao mesmo tempo oportunidade (renovável, versátil) e ameaça (invasiva, exótica). Bambusa abre cada conteúdo com seu sorriso |
 | **Lado bom** | O bambu como presente da natureza — abundante, gratuito, disponível |
 | **Lado mau** | O bambu exótico que invade e desloca espécies nativas quando mal manejado |
+| **Conteúdo do acervo** | `~/GitHub/Takwara-Tech/docs/A2. O Bambu/` — Manual das Exóticas P2, bambu tóxico, rota do bambu · `~/GitHub/Mentoria_Tecnologia_Takwara/docs/02_BASE_DE_CONHECIMENTO/TEC_01_Ecologia.md` — visão ecológica · `~/GitHub/Analises e escrita científica/analyses/artigo-bambu-potencial-bioeconomia.md` — potencial do bambu |
 | **Frase** | *"Bambu não é só planta — é possibilidade. Vem comigo?"* |
 
 ---
@@ -34,6 +35,7 @@
 | **Aparência** | Boneco Muppet com corpo de bambu, pele laranja, nariz vermelho, cabelo preto espetado. Trajes tropicais. Pose sempre em movimento |
 | **Personalidade** | Extrovertido, inquisitivo, um pouco atrapalhado. Faz as perguntas que o público faria. É o contraponto masculino à leveza da Bambusa — juntos formam uma dupla de comunicação |
 | **Temática** | Atua como **entrevistador e provocador**. Enquanto Bambusa apresenta, Vulgaris aprofunda. Ótimo para *deep dives* técnicos e entrevistas com especialistas |
+| **Conteúdo do acervo** | `~/GitHub/Takwara-Tech/` — artigos longos para deep dives (o bambu oco e torto, há solução?, arquitetura resistência) · `~/GitHub/BD-BAMBU/processador.ipynb` — extração de dados de bambu · `~/GitHub/Mentoria_Comunidades_RaioX/` — metodologia de curadoria e diagnóstico |
 | **Frase** | *"É… mas por que isso é importante? Explica melhor!"* |
 
 ---
@@ -50,6 +52,7 @@
 | **Temática** | Química do bambu e relações entre elementos. Tratamentos preservativos, durabilidade, polímeros vegetais, poliuretano de mamona aplicado ao bambu. A toxicidade ignorada do CCA/CCB e as alternativas ecológicas |
 | **Lado bom** | Poliuretano vegetal do óleo de mamona como selante ecológico para bambu. Química a serviço da sustentabilidade |
 | **Lado mau** | A ricina (toxina) como metáfora dos tratamentos químicos tóxicos (CCA, arseniato) que envenenam o bambu e o meio ambiente |
+| **Conteúdo do acervo** | `~/GitHub/Mentoria_Tecnologia_Takwara/` — **PRINCIPAL**: PU_Vegetal_Ficha_Técnica_Consolidada.md, TEC_03 (PU Vegetal), TEC_02 (Boro), TEC_07 (Química) · `~/GitHub/Takwara-Tech/docs/A3. PU Vegetal/` — Imperveg, orgânicos vs sintéticos · `~/GitHub/Analises e escrita científica/analyses/tecnologia-takwara/` — resenhas Naccache, Carvalho, Melo, Lopes · `~/GitHub/Mulheres-Tecem-Amazonia_Clone/04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/02_TECHNICAL_REVIEWS/PU_Vegetal/` |
 | **Frase** | *"A mesma planta que envenena também cura. O segredo está na dose."* |
 
 ---
@@ -66,6 +69,7 @@
 | **Temática** | Questões indígenas relacionadas ao bambu. O conhecimento tradicional sobre espécies nativas. O uso do bambu em construções, armas, artesanato e rituais. A demarcação de terras e a proteção dos bambuzais nativos |
 | **Lado bom** | Saber ancestral de manejo sustentável. O bambu como parte do equilíbrio da floresta |
 | **Lado mau** | O epistemicídio — o conhecimento indígena ignorado em favor de soluções importadas. A expropriação de terras tradicionais para monoculturas |
+| **Conteúdo do acervo** | `~/GitHub/Mulheres-Tecem-Amazonia_Clone/02_DIAGNOSTICO DE AREA/02_ESTUDOS_E_PESQUISAS/RES_pesquisa-bambu-indigenas-georreferenciamento.md` — **PRINCIPAL**: pesquisa com indígenas · `~/GitHub/Takwara-Tech/docs/maloca-concreto.md` — habitação indígena · `~/GitHub/Analises e escrita científica/analyses/grandes-obras-amazonia/` — reassentamentos, Belo Monte |
 | **Frase** | *"Antes do lucro, veio a terra. Antes da terra, veio o respeito."* |
 
 ---
@@ -82,6 +86,7 @@
 | **Temática** | Os **Tabocauis do Acre** — comunidades tradicionais que manejam o bambu nativo. A economia extrativista, o manejo comunitário, o bambu espontâneo como fonte de renda e identidade cultural. A resistência contra o modelo agroexportador |
 | **Lado bom** | O manejo sustentável do bambu nativo por comunidades tradicionais. Geração de renda sem desmatar |
 | **Lado mau** | A invisibilidade dessas comunidades. O conhecimento local substituído por pacotes técnicos externos |
+| **Conteúdo do acervo** | `~/GitHub/Takwara-Tech/relatorio-bambu-acre.md` — **PRINCIPAL**: expansão Guadua no Acre · `~/GitHub/Takwara-Tech/a-rota-do-bambu.md` — bioeconomia carbono negativo · `~/GitHub/Takwara-Tech/Manual_Exoticas_P2.md` — cita Tabocauis · `~/GitHub/Mulheres-Tecem-Amazonia_Clone/02_DIAGNOSTICO DE AREA/02_ESTUDOS_E_PESQUISAS/RES_analise-geoestrategica-jurua.md` — geoestratégia Juruá |
 | **Frase** | *"O bambu que nasce sem plantar também alimenta. A floresta já nos deu tudo."* |
 
 ---
@@ -98,6 +103,7 @@
 | **Temática** | O bambu como **commoditie**. Desmatamento de florestas nativas para plantar monoculturas homogêneas de bambu exótico. Advocacia pelo bambu como produto de exportação *in natura*, sem agregar valor localmente. A burocracia como ferramenta de exclusão do pequeno produtor |
 | **Lado bom** | *Nenhum — este personagem representa o desvio.* Sua existência alerta para o risco de repetir com o bambu o que se fez com a soja, o eucalipto e o dendê |
 | **Lado mau** | Monocultura, desmatamento, concentração de terra, exportação de matéria-prima, exclusão de comunidades |
+| **Conteúdo do acervo** | `~/GitHub/Takwara-Tech/o-pl-da-devastacao.md` — **PRINCIPAL**: o PL da devastação · `~/GitHub/Takwara-Tech/credito-carbono.md` — mercado de carbono · `~/GitHub/Takwara-Tech/O Tecnofeudalismo no Brasil.md` — crítica ao capital financeiro · `~/GitHub/Takwara-Tech/bambu_toxico.md` — commoditie vs bioeconomia · `~/GitHub/Mentoria_Tecnologia_Takwara/TEC_06_Historico_Autoridade.md` — cadeia produtiva e poder · `~/GitHub/Mulheres-Tecem-Amazonia_Clone/WTF-DIAG-002_PARADIGMAS_BIOECONOMIA_AMAZONICA.md` |
 | **Frase** | *"Bambu nativo é ineficiência. O que gera divisas é plantar em linha reta."* |
 
 ---
@@ -114,7 +120,7 @@
 | **Temática** | Cooperativas de manejo de bambu. Organização social para fazer bom uso da biodiversidade nativa. Associativismo, economia solidária, cadeias curtas de comercialização. A força do grupo contra a lógica do lucro individual |
 | **Lado bom** | Cooperativas que empoderam comunidades, geram renda distribuída e preservam a floresta |
 | **Lado mau** | Cooperativismo de fachada (coopergato). Burocracia que trava a organização social. A dificuldade de competir com a monocultura |
-
+| **Conteúdo do acervo** | `~/GitHub/Mulheres-Tecem-Amazonia_Clone/03_DOSSIE_BNDES/` — **PRINCIPAL**: modelo de financiamento coletivo · `~/GitHub/Mulheres-Tecem-Amazonia_Clone/01_GOVERNANCA/` — governança comunitária · `~/GitHub/Mulheres-Tecem-Amazonia_Clone/02_DIAGNOSTICO DE AREA/02_ESTUDOS_E_PESQUISAS/RES_bambu-ou-commodity-ponto-de-mutacao.md` · `~/GitHub/Mentoria_Comunidades_RaioX/` — metodologia 7 passos para organização de comunidades · `~/GitHub/Takwara-Tech/arquitetura-resistencia.md` — arquitetura de resistência comunitária |
 | **Frase** | *"Sozinho o bambu tomba. Em touceira, ele sustenta o mundo."* |
 
 ---
@@ -131,37 +137,44 @@
 | **Temática** | Os **aspectos éticos do uso do bambu**. O negacionismo ambiental aplicado à cadeia produtiva. O discurso do "desenvolvimento a qualquer custo". A motosserra como símbolo da indústria que extrai sem manejo, que desmata sem licença, que explora sem consciência. O lucro que se finge de cego |
 | **Lado bom** | *Nenhum — ele é o contraponto ético.* Sua função no elenco é representar o que NÃO fazer. Toda fala dele vem seguida de um contraponto factual de outro personagem |
 | **Lado mau** | Negacionismo científico. Destruição deliberada. Exploração sem limites. Externalização dos custos ambientais. O lucro privado sobre o dano público |
+| **Conteúdo do acervo** | `~/GitHub/Takwara-Tech/bambu_toxico.md` — **PRINCIPAL**: expõe o negacionismo do CCA/CCB · `~/GitHub/Takwara-Tech/cop-da-verdade.md` — COP30 e negação climática · `~/GitHub/Takwara-Tech/O Tecnofeudalismo no Brasil.md` — tecnofeudalismo · `~/GitHub/Takwara-Tech/Ultimato-Climático.md` — urgência climática · `~/GitHub/Takwara-Tech/COP30_analise_critica.md` — contradições da COP · `~/GitHub/Mulheres-Tecem-Amazonia_Clone/WTF-DIAG-005_NEA_WRI_NOVA_ECONOMIA_AMAZONIA.md` — greenwashing |
 | **Frase** | *"Provas? Não vi. Estudos? Tendenciosos. O bambu cresce de novo, não cresce?"* |
 
 ---
 
 ## 📋 Resumo do Elenco
 
-| # | Personagem | Gênero | Base real | Temática | Alinhamento |
+| Personagem | Gênero | Base real | Temática | Alinhamento | Repositório principal |
 |---|---|---|---|---|---|
-| 🌟 | **Bambusa** | Feminino | *Bambusa + Phyllostachys* spp. | Âncora / Apresentação | Neutro (ambos) |
-| 🎙️ | **Vulgaris** | Masculino | *Bambusa vulgaris* | Coadjuvante / Entrevistador | Neutro (ambos) |
-| 🔬 | **Sabia-mamona** | Feminino | *Ricinus communis L.* | Química / Tratamento / Poliuretano | Ambos |
-| 🌿 | **Cacique-Asper** | Masculino | *Bambusa aspera* | Saberes indígenas | Ambos |
-| 🏹 | **Taboca** | Masculino | *Bambusa taboca* | Tabocauis do Acre / Extrativismo | Ambos |
-| 📊 | **Dr. Burocrata** | Masculino | — | Monocultura / Commoditie / Lucro | ❌ Lado mau |
-| 🌱 | **Tuldoides** | Masculino | *Bambusa tuldoides* | Cooperativas / Organização social | Ambos |
-| ⚙️ | **Dr. Motosserra** | Masculino | — | Negacionismo ético / Antagonista | ❌ Lado mau |
+| 🌟 **Bambusa** | Feminino | *Bambusa + Phyllostachys* spp. | Âncora / Apresentação | Neutro | Takwara-Tech |
+| 🎙️ **Vulgaris** | Masculino | *Bambusa vulgaris* | Coadjuvante / Deep dives | Neutro | Takwara-Tech / BD-BAMBU |
+| 🔬 **Sabia-mamona** | Feminino | *Ricinus communis L.* | Química / Tratamentos | Ambos | Mentoria_Tecnologia_Takwara |
+| 🌿 **Cacique-Asper** | Masculino | *Bambusa aspera* | Saberes indígenas | Ambos | MQTF / Takwara-Tech |
+| 🏹 **Taboca** | Masculino | *Bambusa taboca* | Extrativismo / Tabocauis | Ambos | Takwara-Tech / MQTF |
+| 📊 **Dr. Burocrata** | Masculino | — | Monocultura / Commoditie | ❌ Mau | Takwara-Tech |
+| 🌱 **Tuldoides** | Masculino | *Bambusa tuldoides* | Cooperativas / Organização | Ambos | MQTF / Mentoria_Comunidades |
+| ⚙️ **Dr. Motosserra** | Masculino | — | Negacionismo ético | ❌ Mau | Takwara-Tech |
 
 > 💡 **Nota sobre o acervo:**
 > - *Vulgaris* é o **coadjuvante** — forma dupla de apresentação com Bambusa. Ambos conduzem diálogos introdutórios, entrevistas e *deep dives* temáticos.
-> - Os personagens Tuldoides, Dr. Motosserra e Sabia-mamona possuem o maior número de variações visuais no acervo.
+> - Os personagens Tuldoides, Dr. Motosserra e Sabia-mamona possuem o maior número de variações visuais no acervo de imagens.
+> - "MQTF" = Mulheres-Tecem-Amazonia_Clone (acervo de bioeconomia amazônica)
 
 ---
 
 ## 🧭 Como usar este elenco
 
-Cada personagem está ligado a:
-1. **Conteúdos dos repositórios** — pesquisas, análises, fichas técnicas, cartilhas
-2. **Materiais didáticos** — manuais, apostilas, cursos
-3. **Lições do bambu** — entregues para o bem (uso correto) ou para o mal (não uso / uso predatório)
+Cada personagem está ligado a conteúdos reais dos repositórios. O campo **Conteúdo do acervo** em cada ficha aponta para os arquivos específicos que aquele personagem pode "apresentar" ou "representar".
 
-**Exemplo de aplicação:**
-- Sabia-mamona apresenta uma ficha técnica sobre **tratamento do bambu com poliuretano vegetal** → conteúdo do repositório de análises científicas
-- Taboca apresenta um **manual de manejo de bambu nativo** → conteúdo dos materiais didáticos
-- Dr. Burocrata aparece como alerta em um artigo sobre **riscos da monocultura de bambu** → conteúdo das pesquisas
+**Exemplos de aplicação:**
+
+| Personagem | Tipo de conteúdo | Arquivo de referência |
+|---|---|---|
+| Sabia-mamona | Ficha técnica | `Mentoria_Tecnologia_Takwara/PU_Vegetal_Ficha_Tecnica_Consolidada.md` |
+| Taboca | Relatório de campo | `Takwara-Tech/relatorio-bambu-acre.md` |
+| Dr. Burocrata | Artigo de denúncia | `Takwara-Tech/o-pl-da-devastacao.md` |
+| Cacique-Asper | Pesquisa antropológica | `MQTF/RES_pesquisa-bambu-indigenas-georreferenciamento.md` |
+| Tuldoides | Metodologia comunitária | `Mentoria_Comunidades_RaioX/docs/` (7 passos) |
+| Dr. Motosserra | Análise crítica | `Takwara-Tech/cop-da-verdade.md` |
+| Bambusa | Manual técnico | `Takwara-Tech/docs/A2. O Bambu/Manual_Exoticas_P2.md` |
+| Vulgaris | Deep dive técnico | `BD-BAMBU/processador.ipynb` |

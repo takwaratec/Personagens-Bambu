@@ -2,18 +2,19 @@
 
 ## Estrutura dos 7 Personagens
 
-Cada personagem incorpora **uma Lição do Bambu** + **um Pilar de Edgar Morin**.  
-O DNA visual de cada um reflete sua essência filosófica.
+Cada personagem incorpora **um aspecto do uso do bambu** — para o bem ou para o mal.  
+O DNA visual de cada um reflete sua função no ecossistema de conhecimento.
 
-| # | Lição do Bambu | Pilar de Morin | Arquétipo visual |
-|---|---|---|---|
-| 1 | **Curvar, não quebrar** (resiliência) | Sistema | Flexível, orgânico, dança ao vento |
-| 2 | **Crescer em nós** (etapas) | Autonomia/Dependência | Robusto, marcado por divisórias visíveis |
-| 3 | **Raízes profundas** (fundação) | Ordem/Desordem | Firme, base larga, enraizado no chão |
-| 4 | **Crescer para cima** (visão) | Totalidade | Esguio, alongado, olhar elevado |
-| 5 | **Vazio interior** (humildade) | Emergência | Oco por dentro, surpreendentemente leve |
-| 6 | **Crescer em grupo** (coletivo) | Complexidade | Entrelaçado com outros, ramificado |
-| 7 | **Ritmo próprio** (paciência) | Dialógica | Assimétrico, fora do padrão, único |
+| # | Personagem | Função | Alinhamento | Biotipo |
+|---|---|---|---|---|
+| 🌟 | **Bambusa** | Âncora / Anfitriã | Neutro | Flexível, dançante, acolhedora |
+| 🎙️ | **Vulgaris** | Coadjuvante / Entrevistador | Neutro | Curioso, inquieto, em movimento |
+| 🔬 | **Sabia-mamona** | Química / Tratamento | Ambos | Anciã, curvada, lupa, frascos |
+| 🌿 | **Cacique-Asper** | Saberes indígenas | Ambos | Guerreiro, penas, base larga |
+| 🏹 | **Taboca** | Extrativismo / Comunidades | Ambos | Encorpado, nós marcados, chapéu |
+| 📊 | **Dr. Burocrata** | Monocultura / Lucro | ❌ Mau | Terno de jornal, pasta, óculos |
+| 🌱 | **Tuldoides** | Cooperativas / Organização social | Ambos | Esguio, prancheta, articulador |
+| ⚙️ | **Dr. Motosserra** | Negacionismo ético | ❌ Mau | Rachado, motosserra, dissimulado |
 
 ---
 

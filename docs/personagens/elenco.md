@@ -1,131 +1,167 @@
-# 🎋 Personagens — Elenco Completo
+# 🎋 Personagens — Elenco Reconfigurado
 
-Personagens identificados no acervo `ideogram_Vulgaris/*Atores do Bambu/`  
-Base para as **7 Lições do Bambu** + **7 Pilares de Edgar Morin**
-
----
-
-## 🏆 Vulgaris — O Anfitrião (Bambusa vulgaris)
-
-| Campo | Valor |
-|---|---|
-| **Nome científico** | *Bambusa vulgaris* — bambu comum, presente em todo Brasil |
-| **Arquétipo** | O Comum / O Anfitrião / O Contador de Histórias |
-| **Aparência** | Boneco Muppet com corpo de bambu segmentado, pele laranja, nariz vermelho, cabelo preto espetado. Trajes tropicais: colar de folhas e flores, saia de folhas secas. Pose sempre dançante, energética, punho cerrado para cima |
-| **Personalidade** | Extrovertido, acolhedor, alegre, um pouco bobo. A voz de entrada do universo Bambu. É quem apresenta cada personagem |
-| **Função** | **Narrador/Mestre de Cerimônias** — não ocupa uma lição, mas conduz o espectador por todas elas |
-| **Lição que representa** | *A síntese de todas* — o bambu comum que carrega todas as lições |
+> **Núcleo temático:** Cada personagem representa um aspecto do uso (ou desuso) do bambu —  
+> para o bem ou para o mal, dependendo de como a humanidade escolhe tratar essa planta.  
+> As personas conectam conteúdos dos repositórios de pesquisa, análises científicas e materiais didáticos.
 
 ---
 
-## 1️⃣ Bambusa — O Resiliente (*Bambusa bambos*)
+## 🌟 Bambusa — A Âncora (Bambusa spp. + Phyllostachys spp.)
 
 | Campo | Valor |
 |---|---|
-| **Lição do Bambu** | **Curvar, não quebrar** — Resiliência |
-| **Pilar de Morin** | **Sistema** — o todo é mais que a soma das partes |
-| **Nome científico** | *Bambusa bambos* — bambu gigante, forte mas flexível |
-| **Aparência** | Similar ao Vulgaris mas mais robusto. Estrutura de bambu maciça, articulações grossas, postura que se curva mas nunca parte. Cores mais escuras, verde-bambu escuro |
-| **Personalidade** | Flexível, paciente, ensina que ceder não é fraqueza. Já enfrentou tempestades e segue de pé |
-| **Frase** | *"O vento forte não quebra quem sabe curvar."* |
+| **Gênero** | *Bambusa* + *Phyllostachys* — espécies exóticas de grande poder invasivo, abundantes em território nacional |
+| **Gênero do personagem** | **Feminino** |
+| **Função** | **Âncora / Mascote do time** — Apresenta o universo do bambu e cada personagem |
+| **Arquétipo** | A Anfitriã / A Alegria / O Sorriso do Bambu |
+| **Aparência** | Boneca Muppet com corpo de bambu segmentado, pele em tom de verde-claro/amarelo-bambu, olhos grandes e expressivos, cabelos de fibras vegetais. Trajes tropicais: colar de flores e saia de folhas. Sempre em pose dançante, acolhedora |
+| **Personalidade** | Alegre, descontraída, acolhedora. É a porta de entrada para o universo dos personagens. Não julga — apresenta. Sua leveza contrasta com a gravidade dos temas que cada persona traz |
+| **Temática** | A introdução ao universo do bambu — a planta que é ao mesmo tempo oportunidade (renovável, versátil) e ameaça (invasiva, exótica). Bambusa abre cada conteúdo com seu sorriso |
+| **Lado bom** | O bambu como presente da natureza — abundante, gratuito, disponível |
+| **Lado mau** | O bambu exótico que invade e desloca espécies nativas quando mal manejado |
+| **Frase** | *"Bambu não é só planta — é possibilidade. Vem comigo?"* |
 
 ---
 
-## 2️⃣ Taboca — O Das Etapas (*Bambusa taboca*)
+## 🎙️ Vulgaris — O Coadjuvante (*Bambusa vulgaris*)
 
 | Campo | Valor |
 |---|---|
-| **Lição do Bambu** | **Crescer em nós** — cada etapa é um marco |
-| **Pilar de Morin** | **Autonomia/Dependência** — crescer requer ambos |
-| **Nome científico** | *Bambusa taboca* — espécie nativa brasileira de nós marcantes |
-| **Aparência** | Boneco de madeira com nós de bambu bem destacados nas articulações. Corpo mais encorpado, estrutura retangular com divisórias visíveis. Tom amarelo-mostarda. Expressão séria, concentrada |
-| **Personalidade** | Metódico, disciplinado, ensina que cada fase da vida tem seu tempo. Conta os nós como capítulos |
-| **Frase** | *"Cada nó é uma história. Cada história, um crescimento."* |
+| **Nome científico** | *Bambusa vulgaris* — o bambu mais comum do Brasil, também exótico |
+| **Gênero do personagem** | **Masculino** |
+| **Função** | **Coadjuvante / Apresentador 2** — forma parceria com Bambusa para entrevistas, deep dives e introduções |
+| **Arquétipo** | O Curioso — pergunta, provoca, aprofunda |
+| **Aparência** | Boneco Muppet com corpo de bambu, pele laranja, nariz vermelho, cabelo preto espetado. Trajes tropicais. Pose sempre em movimento |
+| **Personalidade** | Extrovertido, inquisitivo, um pouco atrapalhado. Faz as perguntas que o público faria. É o contraponto masculino à leveza da Bambusa — juntos formam uma dupla de comunicação |
+| **Temática** | Atua como **entrevistador e provocador**. Enquanto Bambusa apresenta, Vulgaris aprofunda. Ótimo para *deep dives* técnicos e entrevistas com especialistas |
+| **Frase** | *"É… mas por que isso é importante? Explica melhor!"* |
 
 ---
 
-## 3️⃣ Cacique-Asper — O das Raízes (*Bambusa aspera*)
+## 🔬 Sabia-mamona — A Química dos Elementos (*Ricinus communis L.*)
 
 | Campo | Valor |
 |---|---|
-| **Lição do Bambu** | **Raízes profundas** — fundação sólida |
-| **Pilar de Morin** | **Ordem/Desordem** — a ordem nasce da aparente desordem |
-| **Nome científico** | *Bambusa aspera* — bambu de base larga e áspera |
-| **Aparência** | Guerreiro tribal com corpo de madeira articulada (estilo anime/One Piece). Colar de penas vermelhas/verdes/amarelas, saia de folhas, punhos cerrados em pose de luta. Pele bege de madeira. Moicano preto |
-| **Personalidade** | Ancestral, enraizado, protetor das tradições. Feroz na defesa dos seus, mas sábio na liderança. Representa a força que vem de saber de onde se vem |
-| **Frase** | *"Quem tem raiz não teme a tempestade."* |
+| **Nome real** | *Ricinus communis L.* — mamona, base do poliuretano vegetal, presente em inúmeros produtos de uso comum no mundo. Também a toxina mais potente do reino vegetal (ricina) |
+| **Função** | **Cientista / Química / Tratamento do Bambu** |
+| **Arquétipo** | A Alquimista — une elementos, transforma matéria |
+| **Aparência** | Anciã de madeira com cabelos grisalhos, rugas profundas. Vestido de folhas verdes trançadas, avental de folha de bordo. Coroa de frutos espinhosos de mamona. Segura uma lupa dourada no olho esquerdo. Tubos de ensaio e frascos pendurados na cintura |
+| **Personalidade** | Curiosa, meticulosa, profunda. Enxerga o que os olhos não veem — as moléculas, as reações, os perigos ocultos. Sabe que a mesma planta que cura pode matar |
+| **Temática** | Química do bambu e relações entre elementos. Tratamentos preservativos, durabilidade, polímeros vegetais, poliuretano de mamona aplicado ao bambu. A toxicidade ignorada do CCA/CCB e as alternativas ecológicas |
+| **Lado bom** | Poliuretano vegetal do óleo de mamona como selante ecológico para bambu. Química a serviço da sustentabilidade |
+| **Lado mau** | A ricina (toxina) como metáfora dos tratamentos químicos tóxicos (CCA, arseniato) que envenenam o bambu e o meio ambiente |
+| **Frase** | *"A mesma planta que envenena também cura. O segredo está na dose."* |
 
 ---
 
-## 4️⃣ Tuldoides — O Que Olha Para Cima (*Bambusa tuldoides*)
+## 🌿 Cacique-Asper — A Memória Ancestral (*Bambusa aspera*)
 
 | Campo | Valor |
 |---|---|
-| **Lição do Bambu** | **Crescer para cima** — visão elevada |
-| **Pilar de Morin** | **Totalidade** — ver o todo, não a parte |
-| **Nome científico** | *Bambusa tuldoides* — bambu ereto que alcança grandes alturas |
-| **Aparência** | Esguio, alongado, braços e pernas finos de bambu segmentado. Pele amarelo-mostarda, nariz e boca vermelhos. Colar de folhas verdes e roxas. Postura esticada, cabeça erguida. Expressão alegre e eufórica, como se visse algo grandioso no horizonte |
-| **Personalidade** | Visionário, sonhador, inspirador. Vive olhando para o futuro, para o potencial. Contagia os outros com sua visão do que pode ser |
-| **Frase**| *"O bambu cresce porque não esquece de olhar para o céu."* |
+| **Nome científico** | *Bambusa aspera* — "áspero", como a sabedoria que vem da experiência direta com a terra |
+| **Função** | **Guardião dos Saberes Indígenas** |
+| **Arquétipo** | O Ancestral — a memória viva dos povos originários |
+| **Aparência** | Guerreiro tribal de madeira articulada (estilo anime). Colar de penas vermelhas, verdes e amarelas. Saia de palha. Cocar de penas. Pele de madeira escura. Moicano preto. Punhos cerrados em postura de luta e proteção |
+| **Personalidade** | Feroz na defesa, sábio na palavra. Carrega séculos de conhecimento sobre o manejo do bambu pelos povos indígenas. Não negocia a floresta |
+| **Temática** | Questões indígenas relacionadas ao bambu. O conhecimento tradicional sobre espécies nativas. O uso do bambu em construções, armas, artesanato e rituais. A demarcação de terras e a proteção dos bambuzais nativos |
+| **Lado bom** | Saber ancestral de manejo sustentável. O bambu como parte do equilíbrio da floresta |
+| **Lado mau** | O epistemicídio — o conhecimento indígena ignorado em favor de soluções importadas. A expropriação de terras tradicionais para monoculturas |
+| **Frase** | *"Antes do lucro, veio a terra. Antes da terra, veio o respeito."* |
 
 ---
 
-## 5️⃣ Sabia-mamona — A Sábia Vazia (*sabia* + *mamona*)
+## 🏹 Taboca — A Voz dos Tabocauis (*Bambusa taboca*)
 
 | Campo | Valor |
 |---|---|
-| **Lição do Bambu** | **Vazio interior** — humildade |
-| **Pilar de Morin** | **Emergência** — o novo surge do vazio |
-| **Nome** | *Sábia Mamona* — sabedoria + mamona (planta Ricinus, que cura e também é vazia por dentro) |
-| **Aparência** | Anciã de madeira com cabelos grisalhos, rugas profundas. Vestido de folhas verdes trançadas, avental de folha de bordo. Coroa de frutos espinhosos. Segura uma lupa dourada no olho esquerdo. Pele bege/caramelo de madeira polida |
-| **Personalidade** | Curiosa, observadora, sábia, gentil. Não se prende a certezas — seu interior é oco como o bambu, permitindo que novas ideias fluam. Estuda a natureza com lupa de cientista e olhar de poeta |
-| **Frase** | *"O sábio é como o bambu: vazio por dentro, cheio de possibilidades."* |
+| **Nome científico** | *Bambusa taboca* — espécie nativa brasileira |
+| **Função** | **Porta-voz das Comunidades Tradicionais / Extrativistas** |
+| **Arquétipo** | O Homem do Lugar — a identidade territorial |
+| **Aparência** | Boneco de madeira com nós de bambu bem marcados. Corpo encorpado, estrutura retangular com divisórias visíveis. Tom amarelo-mostarda. Chapéu de palha. Mãos calejadas de trabalho. Expressão séria mas acolhedora |
+| **Personalidade** | Fala pausado, cada palavra tem peso. Conhece o bambu como conhece sua própria mão. É a voz dos que vivem do e com o bambu nas comunidades tradicionais |
+| **Temática** | Os **Tabocauis do Acre** — comunidades tradicionais que manejam o bambu nativo. A economia extrativista, o manejo comunitário, o bambu espontâneo como fonte de renda e identidade cultural. A resistência contra o modelo agroexportador |
+| **Lado bom** | O manejo sustentável do bambu nativo por comunidades tradicionais. Geração de renda sem desmatar |
+| **Lado mau** | A invisibilidade dessas comunidades. O conhecimento local substituído por pacotes técnicos externos |
+| **Frase** | *"O bambu que nasce sem plantar também alimenta. A floresta já nos deu tudo."* |
 
 ---
 
-## 6️⃣ Dr. Burocrata — O do Coletivo
+## 📊 Dr. Burocrata — O Lucro Acima da Floresta
 
 | Campo | Valor |
 |---|---|
-| **Lição do Bambu** | **Crescer em grupo** — coletivo |
-| **Pilar de Morin** | **Complexidade** — o real é tecido conjunto |
-| **Nome** | *Dr. Burocrata* — o burocrata que organiza o caos |
-| **Aparência** | Boneco Muppet feito de papel de jornal amassado. Terno cinza, gravata preta, óculos marrom, pasta de arquivo de madeira. Nariz laranja, olhos arregalados. Expressão séria, formal, concentrada |
-| **Personalidade** | Organizado, meticuloso, talvez ansioso. Representa a burocracia como ferramenta de organização coletiva — o papel que cada um assina para o bem comum. No fundo, quer ajudar, mas se perde em formulários |
-| **Frase** | *"Nenhum bambu cresce sozinho. A floresta é um documento escrito a muitas mãos."* |
+| **Nome** | *Dr. Burocrata* — o homem dos papéis, das planilhas, do lucro |
+| **Função** | **Antagonista — O Capital Financeiro** |
+| **Arquétipo** | O Explorador — vê a floresta como estoque |
+| **Aparência** | Boneco Muppet feito de papel de jornal amassado. Terno cinza, gravata preta, óculos marrom, pasta de arquivo. Nariz laranja. Olhos arregalados, sempre calculando. Expressão tensa, formal, gananciosa |
+| **Personalidade** | Fala em métricas, ROIs, produtividade. Não enxerga a floresta — enxerga "estoque de biomassa". Para ele, bambu espontâneo é "desorganizado". Melhor desmatar e plantar monocultura |
+| **Temática** | O bambu como **commoditie**. Desmatamento de florestas nativas para plantar monoculturas homogêneas de bambu exótico. Advocacia pelo bambu como produto de exportação *in natura*, sem agregar valor localmente. A burocracia como ferramenta de exclusão do pequeno produtor |
+| **Lado bom** | *Nenhum — este personagem representa o desvio.* Sua existência alerta para o risco de repetir com o bambu o que se fez com a soja, o eucalipto e o dendê |
+| **Lado mau** | Monocultura, desmatamento, concentração de terra, exportação de matéria-prima, exclusão de comunidades |
+| **Frase** | *"Bambu nativo é ineficiência. O que gera divisas é plantar em linha reta."* |
 
 ---
 
-## 7️⃣ Dr. Motosserra — O do Ritmo Próprio
+## 🌱 Tuldoides — A Organização Social (*Bambusa tuldoides*)
 
 | Campo | Valor |
 |---|---|
-| **Lição do Bambu** | **Ritmo próprio** — paciência |
-| **Pilar de Morin** | **Dialógica** — a união dos contrários |
-| **Nome** | *Dr. Motosserra* — o que corta, mas também constrói |
-| **Aparência** | Lenhador grotesco de stop-motion. Pele de terra rachada (cracked earth), musculosos, colete de couro marrom, calças de estopa. Segura uma motosserra grande e enferrujada. Cabelo grisalho espetado, bigode e sobrancelha grossos. Olhar intenso |
-| **Personalidade** | Paradoxal — parece destrutivo mas é paciente. Cada corte da motosserra é preciso, no ritmo certo, esperando o momento ideal. Ensina que agir sem pressa é mais eficaz que agir sem pensar. O brutamontes de coração gentil |
-| **Frase** | *"Até a motosserra espera o fio certo para cortar."* |
+| **Nome científico** | *Bambusa tuldoides* — espécie comum, de ampla distribuição |
+| **Função** | **O Cooperativista / A Organização Social** |
+| **Arquétipo** | O Articulador — une pessoas em torno do manejo coletivo |
+| **Aparência** | Esguio, alongado, braços e pernas finos de bambu. Pele amarelo-mostarda, nariz e boca vermelhos. Carrega uma prancheta com atas e um selo de cooperativa. Postura ereta e aberta, expressão confiante e solidária |
+| **Personalidade** | Agregador, paciente, ouve antes de falar. Acredita que o bambu é um recurso coletivo — e que só organizados em cooperativas as comunidades podem competir de igual com o grande capital. Constrói pontes entre pessoas |
+| **Temática** | Cooperativas de manejo de bambu. Organização social para fazer bom uso da biodiversidade nativa. Associativismo, economia solidária, cadeias curtas de comercialização. A força do grupo contra a lógica do lucro individual |
+| **Lado bom** | Cooperativas que empoderam comunidades, geram renda distribuída e preservam a floresta |
+| **Lado mau** | Cooperativismo de fachada (coopergato). Burocracia que trava a organização social. A dificuldade de competir com a monocultura |
+
+| **Frase** | *"Sozinho o bambu tomba. Em touceira, ele sustenta o mundo."* |
+
+---
+
+## ⚙️ Dr. Motosserra — O Negacionista Ético
+
+| Campo | Valor |
+|---|---|
+| **Nome** | *Dr. Motosserra* — a ferramenta que ele usa para destruir enquanto alega que está "só trabalhando" |
+| **Função** | **O Antagonista Ético / O Negacionista** |
+| **Arquétipo** | O Dissimulado — sabe do dano, mas nega. Não por ignorância, por conveniência |
+| **Aparência** | Lenhador de stop-motion. Pele de terra rachada, musculoso, colete de couro marrom, calças de estopa. Segura uma motosserra enferrujada mas com detalhes que denunciam alto custo (relógio, anel). Cabelo grisalho espetado, bigode grosso. Olhar que desvia quando confrontado |
+| **Personalidade** | Dissimulado, eloquente, defende suas posições com falsa lógica. Sabe que o que faz é danoso — ao meio ambiente, às comunidades, ao futuro — mas adota o discurso do negacionismo: "não há provas", "sempre fizemos assim", "o bambu é renovável". Não é burro: é cúmplice |
+| **Temática** | Os **aspectos éticos do uso do bambu**. O negacionismo ambiental aplicado à cadeia produtiva. O discurso do "desenvolvimento a qualquer custo". A motosserra como símbolo da indústria que extrai sem manejo, que desmata sem licença, que explora sem consciência. O lucro que se finge de cego |
+| **Lado bom** | *Nenhum — ele é o contraponto ético.* Sua função no elenco é representar o que NÃO fazer. Toda fala dele vem seguida de um contraponto factual de outro personagem |
+| **Lado mau** | Negacionismo científico. Destruição deliberada. Exploração sem limites. Externalização dos custos ambientais. O lucro privado sobre o dano público |
+| **Frase** | *"Provas? Não vi. Estudos? Tendenciosos. O bambu cresce de novo, não cresce?"* |
 
 ---
 
 ## 📋 Resumo do Elenco
 
-| # | Personagem | Nome científico | Lição do Bambu | Pilar de Morin | Arquétipo |
+| # | Personagem | Gênero | Base real | Temática | Alinhamento |
 |---|---|---|---|---|---|
-| 🏆 | **Vulgaris** | *B. vulgaris* | (anfitrião) | (síntese) | Apresentador |
-| 1 | **Bambusa** | *B. bambos* | Curvar, não quebrar | Sistema | Resiliente |
-| 2 | **Taboca** | *B. taboca* | Crescer em nós | Autonomia/Dependência | Metódico |
-| 3 | **Cacique-Asper** | *B. aspera* | Raízes profundas | Ordem/Desordem | Ancestral |
-| 4 | **Tuldoides** | *B. tuldoides* | Crescer para cima | Totalidade | Visionário |
-| 5 | **Sabia-mamona** | — | Vazio interior | Emergência | Sábia Anciã |
-| 6 | **Dr. Burocrata** | — | Crescer em grupo | Complexidade | Organizador |
-| 7 | **Dr. Motosserra** | — | Ritmo próprio | Dialógica | Paradoxal |
+| 🌟 | **Bambusa** | Feminino | *Bambusa + Phyllostachys* spp. | Âncora / Apresentação | Neutro (ambos) |
+| 🎙️ | **Vulgaris** | Masculino | *Bambusa vulgaris* | Coadjuvante / Entrevistador | Neutro (ambos) |
+| 🔬 | **Sabia-mamona** | Feminino | *Ricinus communis L.* | Química / Tratamento / Poliuretano | Ambos |
+| 🌿 | **Cacique-Asper** | Masculino | *Bambusa aspera* | Saberes indígenas | Ambos |
+| 🏹 | **Taboca** | Masculino | *Bambusa taboca* | Tabocauis do Acre / Extrativismo | Ambos |
+| 📊 | **Dr. Burocrata** | Masculino | — | Monocultura / Commoditie / Lucro | ❌ Lado mau |
+| 🌱 | **Tuldoides** | Masculino | *Bambusa tuldoides* | Cooperativas / Organização social | Ambos |
+| ⚙️ | **Dr. Motosserra** | Masculino | — | Negacionismo ético / Antagonista | ❌ Lado mau |
 
-## Observações sobre o acervo
+> 💡 **Nota sobre o acervo:**
+> - *Vulgaris* é o **coadjuvante** — forma dupla de apresentação com Bambusa. Ambos conduzem diálogos introdutórios, entrevistas e *deep dives* temáticos.
+> - Os personagens Tuldoides, Dr. Motosserra e Sabia-mamona possuem o maior número de variações visuais no acervo.
 
-- **Sabia-mamona** tem 8 variações (Sabia-mamona.png a Sabia-mamona8.png) — a mais versátil do elenco
-- **Dr. Burocrata** e **Dr. Motosserra** têm 4 variações cada
-- **Bambusa** tem pasta própria com PNGs recortados e vídeos
-- **Vulgaris** é o personagem mais desenvolvido visualmente (vários puppets, vídeos)
-- Os nomes científicos são uma *persona sugerida* com base nos nomes dos arquivos — alguns como Sabia-mamona e Dr. Burocrata não são espécies botânicas, mas nomes criativos
+---
+
+## 🧭 Como usar este elenco
+
+Cada personagem está ligado a:
+1. **Conteúdos dos repositórios** — pesquisas, análises, fichas técnicas, cartilhas
+2. **Materiais didáticos** — manuais, apostilas, cursos
+3. **Lições do bambu** — entregues para o bem (uso correto) ou para o mal (não uso / uso predatório)
+
+**Exemplo de aplicação:**
+- Sabia-mamona apresenta uma ficha técnica sobre **tratamento do bambu com poliuretano vegetal** → conteúdo do repositório de análises científicas
+- Taboca apresenta um **manual de manejo de bambu nativo** → conteúdo dos materiais didáticos
+- Dr. Burocrata aparece como alerta em um artigo sobre **riscos da monocultura de bambu** → conteúdo das pesquisas

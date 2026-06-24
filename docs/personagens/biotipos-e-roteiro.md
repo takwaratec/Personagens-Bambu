@@ -1,87 +1,111 @@
-# 🎭 Biotipos, Variações Visuais, Stitch Prompts & Roteiro Flow
+# 🎭 Biotipos, Stitch Prompts & Roteiro Flow
 
-> Definição física definitiva dos 8 personagens, com galeria de variações,  
-> prompts PT/EN para o Stitch e roteiro de 7 clips (3-5s cada) para vídeo de 30s no Google Flow.
+> Definição física dos 8 personagens. Cada seção traz:  
+> **Tabela descritiva** → **Imagem principal** → **Variações horizontais no rodapé**
 
 ---
 
 <style>
-.char-block {
-  display: flex;
-  gap: 1.5rem;
-  margin: 2rem 0;
-  padding: 1.5rem;
+.char-card {
   background: #111;
   border: 1px solid #333;
   border-radius: 12px;
+  padding: 1.5rem;
+  margin: 2rem 0;
 }
-.char-desc {
-  flex: 1;
-  min-width: 280px;
+.char-header {
+  font-size: 1.3rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #333;
 }
-.char-desc table {
-  width: 100%;
-}
-.char-desc td {
-  padding: 3px 6px;
-  font-size: 0.9rem;
-}
-.char-gallery {
-  flex: 0 0 auto;
+.char-main {
   display: flex;
-  flex-direction: column;
-  gap: 10px;
-  max-width: 200px;
+  gap: 1.5rem;
+  align-items: flex-start;
 }
-.char-gallery .img-wrap {
-  background: #0a0a0a;
-  border-radius: 10px;
-  border: 1px solid #2a2a2a;
-  overflow: hidden;
-  padding: 4px;
+.char-main table {
+  flex: 1;
+  border-collapse: collapse;
+}
+.char-main td {
+  padding: 4px 8px;
+  border-bottom: 1px solid #222;
+  font-size: 0.9rem;
+  vertical-align: top;
+}
+.char-main td:first-child {
+  white-space: nowrap;
+  color: #8ab4f8;
+  font-weight: 500;
+  width: 120px;
+}
+.char-ref {
+  flex-shrink: 0;
+  width: 200px;
   text-align: center;
 }
-.char-gallery .img-wrap img {
+.char-ref img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  border: 1px solid #333;
+}
+.char-ref .label {
+  font-size: 0.7rem;
+  color: #666;
+  margin-top: 4px;
+}
+.char-vars {
+  margin-top: 1rem;
+  padding-top: 1rem;
+  border-top: 1px solid #333;
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.char-vars .var-item {
+  text-align: center;
+  width: 100px;
+}
+.char-vars .var-item img {
   width: 100%;
   height: auto;
   border-radius: 6px;
-  display: block;
+  border: 1px solid #2a2a2a;
+  background: #0a0a0a;
 }
-.char-gallery .photo-label {
-  font-size: 0.7rem;
-  color: #666;
-  text-align: center;
-  margin-top: 4px;
-  letter-spacing: 0.05em;
-}
-/* Special style for recortes - they have real transparency */
-.char-gallery .img-wrap.recorte {
-  background: repeating-conic-gradient(#1a1a1a 0% 25%, #222 0% 50%) 50% / 16px 16px;
+.char-vars .var-item .vlabel {
+  font-size: 0.65rem;
+  color: #555;
+  margin-top: 2px;
 }
 @media (max-width: 700px) {
-  .char-block { flex-direction: column; }
-  .char-gallery { flex-direction: row; flex-wrap: wrap; max-width: 100%; }
-  .char-gallery .img-wrap { width: 120px; }
+  .char-main { flex-direction: column; align-items: center; }
+  .char-ref { width: 100%; max-width: 260px; }
+  .char-vars { justify-content: center; }
 }
 </style>
 
 ---
 
-## 📐 Fichas de Biotipo Consolidadas
+## 📐 Fichas de Biotipo
 
 ---
 
 ### 🌟 Bambusa — A Âncora
 
-<div class="char-block">
+<div class="char-card">
 
-<div class="char-desc">
+<div class="char-main">
 
 | Traço | Descrição |
 |---|---|
 | **Silhueta** | Flexível, sinuosa, curvas tipo "S" |
 | **Altura** | 1,65m (cabeça grande, corpo pequeno) |
-| **Cabeça** | Esférica, pele verde-claro/amarelo-bambu |
+| **Cabeça** | Esférica, pele verde-claro / amarelo-bambu |
 | **Olhos** | Grandes, brancos, pupilas azul-rio (#2C5F7C) |
 | **Nariz** | Pequeno, esverdeado |
 | **Boca** | Sorriso largo e permanente |
@@ -91,21 +115,22 @@
 | **Postura** | Dançante, pé direito à frente, braço erguido |
 | **Expressão** | Alegria acolhedora |
 
+<div class="char-ref">
+<img src="../../assets/images/transparent/bambusa.png" alt="Bambusa">
+<div class="label">Principal</div>
 </div>
 
-<div class="char-gallery">
-  <div class="img-wrap"><img src="../../assets/images/transparent/bambusa.png" alt="Bambusa principal"></div>
-  <div class="photo-label">Principal</div>
-  <div class="img-wrap"><img src="../../assets/images/variacoes/bambusa-a-photo-of-a-muppet-show-.png" alt="Bambusa visual 2"></div>
-  <div class="photo-label">Visual 2</div>
-  <div class="img-wrap"><img src="../../assets/images/variacoes/bambusa-a-photo-of-a-muppet-style.png" alt="Bambusa visual 3"></div>
-  <div class="photo-label">Visual 3</div>
-  <div class="img-wrap"><img src="../../assets/images/variacoes/bambusa-a-photo-of-a-puppet-chara.png" alt="Bambusa visual 4"></div>
-  <div class="photo-label">Visual 4</div>
-  <div class="img-wrap"><img src="../../assets/images/variacoes/bambusa-a-photo-of-a-puppet-with-.png" alt="Bambusa visual 5"></div>
-  <div class="photo-label">Visual 5</div>
-  <div class="img-wrap recorte"><img src="../../assets/images/variacoes/bambusa-recorte-Bambusa.png" alt="Bambusa recorte"></div>
-  <div class="photo-label">Recorte PNG</div>
+</div>
+
+<div class="char-vars">
+  <div class="var-item"><img src="../../assets/images/variacoes/bambusa-var1.png" alt="var1"><div class="vlabel">Visual 2</div></div>
+  <div class="var-item"><img src="../../assets/images/variacoes/bambusa-var2.png" alt="var2"><div class="vlabel">Visual 3</div></div>
+  <div class="var-item"><img src="../../assets/images/variacoes/bambusa-var3.png" alt="var3"><div class="vlabel">Visual 4</div></div>
+  <div class="var-item"><img src="../../assets/images/variacoes/bambusa-var4.png" alt="var4"><div class="vlabel">Visual 5</div></div>
+  <div class="var-item"><img src="../../assets/images/variacoes/recorte-2.png" alt="recorte2"><div class="vlabel">Recorte 2</div></div>
+  <div class="var-item"><img src="../../assets/images/variacoes/recorte-3.png" alt="recorte3"><div class="vlabel">Recorte 3</div></div>
+  <div class="var-item"><img src="../../assets/images/variacoes/recorte-4.png" alt="recorte4"><div class="vlabel">Recorte 4</div></div>
+  <div class="var-item"><img src="../../assets/images/variacoes/recorte-Bambusa.png" alt="recorteB"><div class="vlabel">Recorte PB</div></div>
 </div>
 
 </div>
@@ -114,9 +139,9 @@
 
 ### 🎙️ Vulgaris — O Coadjuvante
 
-<div class="char-block">
+<div class="char-card">
 
-<div class="char-desc">
+<div class="char-main">
 
 | Traço | Descrição |
 |---|---|
@@ -132,17 +157,17 @@
 | **Postura** | Inclinado, mão no queixo |
 | **Expressão** | Curiosidade, incredulidade |
 
+<div class="char-ref">
+<img src="../../assets/images/transparent/vulgaris.png" alt="Vulgaris">
+<div class="label">Principal</div>
 </div>
 
-<div class="char-gallery">
-  <div class="img-wrap"><img src="../../assets/images/transparent/vulgaris.png" alt="Vulgaris principal"></div>
-  <div class="photo-label">Principal</div>
-  <div class="img-wrap"><img src="../../assets/images/variacoes/vulgaris-var1.png" alt="Vulgaris var 1"></div>
-  <div class="photo-label">Variação 1</div>
-  <div class="img-wrap"><img src="../../assets/images/variacoes/vulgaris-var2.png" alt="Vulgaris var 2"></div>
-  <div class="photo-label">Variação 2</div>
-  <div class="img-wrap"><img src="../../assets/images/variacoes/vulgaris-var3.png" alt="Vulgaris var 3"></div>
-  <div class="photo-label">Variação 3</div>
+</div>
+
+<div class="char-vars">
+  <div class="var-item"><img src="../../assets/images/variacoes/vulgaris-var1.png" alt="v1"><div class="vlabel">Var 1</div></div>
+  <div class="var-item"><img src="../../assets/images/variacoes/vulgaris-var2.png" alt="v2"><div class="vlabel">Var 2</div></div>
+  <div class="var-item"><img src="../../assets/images/variacoes/vulgaris-var3.png" alt="v3"><div class="vlabel">Var 3</div></div>
 </div>
 
 </div>
@@ -151,9 +176,9 @@
 
 ### 🔬 Sabia-mamona — A Química (8 variações)
 
-<div class="char-block">
+<div class="char-card">
 
-<div class="char-desc">
+<div class="char-main">
 
 | Traço | Descrição |
 |---|---|
@@ -168,25 +193,22 @@
 | **Postura** | Inclinada para frente, olho na lupa |
 | **Expressão** | Curiosidade científica |
 
+<div class="char-ref">
+<img src="../../assets/images/transparent/sabia-mamona.png" alt="Sabia-mamona">
+<div class="label">Principal</div>
 </div>
 
-<div class="char-gallery">
-  <div class="img-wrap"><img src="../../assets/images/transparent/sabia-mamona.png" alt="Sabia-mamona"></div>
-  <div class="photo-label">Perfil 1</div>
-  <div class="img-wrap"><img src="../../assets/images/variacoes/sabia-mamona-var2.png" alt="Sabia-mamona 2"></div>
-  <div class="photo-label">Perfil 2</div>
-  <div class="img-wrap"><img src="../../assets/images/variacoes/sabia-mamona-var3.png" alt="Sabia-mamona 3"></div>
-  <div class="photo-label">Perfil 3</div>
-  <div class="img-wrap"><img src="../../assets/images/variacoes/sabia-mamona-var4.png" alt="Sabia-mamona 4"></div>
-  <div class="photo-label">Perfil 4</div>
-  <div class="img-wrap"><img src="../../assets/images/variacoes/sabia-mamona-var5.png" alt="Sabia-mamona 5"></div>
-  <div class="photo-label">Perfil 5</div>
-  <div class="img-wrap"><img src="../../assets/images/variacoes/sabia-mamona-var6.png" alt="Sabia-mamona 6"></div>
-  <div class="photo-label">Perfil 6</div>
-  <div class="img-wrap"><img src="../../assets/images/variacoes/sabia-mamona-var7.png" alt="Sabia-mamona 7"></div>
-  <div class="photo-label">Perfil 7</div>
-  <div class="img-wrap"><img src="../../assets/images/variacoes/sabia-mamona-var8.png" alt="Sabia-mamona 8"></div>
-  <div class="photo-label">Perfil 8</div>
+</div>
+
+<div class="char-vars">
+  <div class="var-item"><img src="../../assets/images/variacoes/sabia-mamona-var1.png" alt="s1"><div class="vlabel">Perfil 1</div></div>
+  <div class="var-item"><img src="../../assets/images/variacoes/sabia-mamona-var2.png" alt="s2"><div class="vlabel">Perfil 2</div></div>
+  <div class="var-item"><img src="../../assets/images/variacoes/sabia-mamona-var3.png" alt="s3"><div class="vlabel">Perfil 3</div></div>
+  <div class="var-item"><img src="../../assets/images/variacoes/sabia-mamona-var4.png" alt="s4"><div class="vlabel">Perfil 4</div></div>
+  <div class="var-item"><img src="../../assets/images/variacoes/sabia-mamona-var5.png" alt="s5"><div class="vlabel">Perfil 5</div></div>
+  <div class="var-item"><img src="../../assets/images/variacoes/sabia-mamona-var6.png" alt="s6"><div class="vlabel">Perfil 6</div></div>
+  <div class="var-item"><img src="../../assets/images/variacoes/sabia-mamona-var7.png" alt="s7"><div class="vlabel">Perfil 7</div></div>
+  <div class="var-item"><img src="../../assets/images/variacoes/sabia-mamona-var8.png" alt="s8"><div class="vlabel">Perfil 8</div></div>
 </div>
 
 </div>
@@ -195,39 +217,37 @@
 
 ### 🌿 Cacique-Asper — A Memória Ancestral
 
-<div class="char-block">
+<div class="char-card">
 
-<div class="char-desc">
+<div class="char-main">
 
 | Traço | Descrição |
 |---|---|
 | **Silhueta** | Base larga, guerreiro, 1,75m |
 | **Cabeça** | Madeira escura (#6B4226), angular |
-| **Cocar** | Pena central vermelha + laterais verdes/amarelas |
+| **Cocar** | Pena central vermelha + laterais verdes e amarelas |
 | **Cabelo** | Moicano preto |
 | **Olhos** | Sobrancelhas franzidas, olhar de luta |
 | **Colar** | Penas vermelhas/verdes/amarelas |
-| **Saia** | Palha/fibras marrons |
+| **Saia** | Palha / fibras marrons |
 | **Braços** | Musculosos, punhos cerrados |
 | **Postura** | Luta, pernas abertas, punhos nos ombros |
 | **Expressão** | Feroz, protetor |
 
+<div class="char-ref">
+<img src="../../assets/images/transparent/cacique-asper.png" alt="Cacique-Asper">
+<div class="label">Única variação</div>
 </div>
-
-<div class="char-gallery">
-  <div class="img-wrap"><img src="../../assets/images/transparent/cacique-asper.png" alt="Cacique-Asper"></div>
-  <div class="photo-label">Única variação</div>
 </div>
-
 </div>
 
 ---
 
 ### 🏹 Taboca — A Voz dos Tabocauis
 
-<div class="char-block">
+<div class="char-card">
 
-<div class="char-desc">
+<div class="char-main">
 
 | Traço | Descrição |
 |---|---|
@@ -242,22 +262,20 @@
 | **Postura** | Erguida, pés paralelos |
 | **Expressão** | Séria, confiável |
 
+<div class="char-ref">
+<img src="../../assets/images/transparent/taboca.png" alt="Taboca">
+<div class="label">Única variação</div>
 </div>
-
-<div class="char-gallery">
-  <div class="img-wrap"><img src="../../assets/images/transparent/taboca.png" alt="Taboca"></div>
-  <div class="photo-label">Única variação</div>
 </div>
-
 </div>
 
 ---
 
 ### 📊 Dr. Burocrata — O Antagonista (4 variações)
 
-<div class="char-block">
+<div class="char-card">
 
-<div class="char-desc">
+<div class="char-main">
 
 | Traço | Descrição |
 |---|---|
@@ -273,17 +291,18 @@
 | **Postura** | Tensa, olho no relógio |
 | **Expressão** | Calculista, gananciosa |
 
+<div class="char-ref">
+<img src="../../assets/images/transparent/dr-burocrata.png" alt="Dr. Burocrata">
+<div class="label">Principal</div>
 </div>
 
-<div class="char-gallery">
-  <div class="img-wrap"><img src="../../assets/images/transparent/dr-burocrata.png" alt="Dr. Burocrata"></div>
-  <div class="photo-label">Principal</div>
-  <div class="img-wrap"><img src="../../assets/images/variacoes/dr-burocrata-var2.png" alt="Dr. Burocrata 2"></div>
-  <div class="photo-label">Variação 2</div>
-  <div class="img-wrap"><img src="../../assets/images/variacoes/dr-burocrata-var3.png" alt="Dr. Burocrata 3"></div>
-  <div class="photo-label">Variação 3</div>
-  <div class="img-wrap"><img src="../../assets/images/variacoes/dr-burocrata-var4.png" alt="Dr. Burocrata 4"></div>
-  <div class="photo-label">Variação 4</div>
+</div>
+
+<div class="char-vars">
+  <div class="var-item"><img src="../../assets/images/variacoes/dr-burocrata-var1.png" alt="b1"><div class="vlabel">Principal</div></div>
+  <div class="var-item"><img src="../../assets/images/variacoes/dr-burocrata-var2.png" alt="b2"><div class="vlabel">Var 2</div></div>
+  <div class="var-item"><img src="../../assets/images/variacoes/dr-burocrata-var3.png" alt="b3"><div class="vlabel">Var 3</div></div>
+  <div class="var-item"><img src="../../assets/images/variacoes/dr-burocrata-var4.png" alt="b4"><div class="vlabel">Var 4</div></div>
 </div>
 
 </div>
@@ -292,9 +311,9 @@
 
 ### 🌱 Tuldoides — O Cooperativista
 
-<div class="char-block">
+<div class="char-card">
 
-<div class="char-desc">
+<div class="char-main">
 
 | Traço | Descrição |
 |---|---|
@@ -309,27 +328,25 @@
 | **Postura** | Aberta, braços semi-abertos |
 | **Expressão** | Solidária, confiante |
 
+<div class="char-ref">
+<img src="../../assets/images/transparent/tuldoides.png" alt="Tuldoides">
+<div class="label">Única variação</div>
 </div>
-
-<div class="char-gallery">
-  <div class="img-wrap"><img src="../../assets/images/transparent/tuldoides.png" alt="Tuldoides"></div>
-  <div class="photo-label">Única variação</div>
 </div>
-
 </div>
 
 ---
 
 ### ⚙️ Dr. Motosserra — O Negacionista (4 variações)
 
-<div class="char-block">
+<div class="char-card">
 
-<div class="char-desc">
+<div class="char-main">
 
 | Traço | Descrição |
 |---|---|
 | **Silhueta** | Robusta, larga, 1,78m |
-| **Cabeça** | Terra rachada (#8B7355), cicatrizes |
+| **Cabeça** | Terra rachada (#8B7355) |
 | **Cabelo** | Grisalho espetado |
 | **Bigode** | Grosso, grisalho |
 | **Olhos** | Desviam quando confrontados |
@@ -340,75 +357,18 @@
 | **Postura** | Desafiadora |
 | **Expressão** | Dissimulada, falsa confiança |
 
-</div>
-
-<div class="char-gallery">
-  <div class="img-wrap"><img src="../../assets/images/transparent/dr-motosserra.png" alt="Dr. Motosserra"></div>
-  <div class="photo-label">Principal</div>
-  <div class="img-wrap"><img src="../../assets/images/variacoes/dr-motosserra-var2.png" alt="Dr. Motosserra 2"></div>
-  <div class="photo-label">Variação 2</div>
-  <div class="img-wrap"><img src="../../assets/images/variacoes/dr-motosserra-var3.png" alt="Dr. Motosserra 3"></div>
-  <div class="photo-label">Variação 3</div>
-  <div class="img-wrap"><img src="../../assets/images/variacoes/dr-motosserra-var4.png" alt="Dr. Motosserra 4"></div>
-  <div class="photo-label">Variação 4</div>
+<div class="char-ref">
+<img src="../../assets/images/transparent/dr-motosserra.png" alt="Dr. Motosserra">
+<div class="label">Principal</div>
 </div>
 
 </div>
 
----
+<div class="char-vars">
+  <div class="var-item"><img src="../../assets/images/variacoes/dr-motosserra-var1.png" alt="m1"><div class="vlabel">Principal</div></div>
+  <div class="var-item"><img src="../../assets/images/variacoes/dr-motosserra-var2.png" alt="m2"><div class="vlabel">Var 2</div></div>
+  <div class="var-item"><img src="../../assets/images/variacoes/dr-motosserra-var3.png" alt="m3"><div class="vlabel">Var 3</div></div>
+  <div class="var-item"><img src="../../assets/images/variacoes/dr-motosserra-var4.png" alt="m4"><div class="vlabel">Var 4</div></div>
+</div>
 
-## 📝 Prompts para Stitch (Design System)
-
-### PT (Português)
-```
-Crie um design system para o personagem [NOME] do universo Personagens Bambu.
-O personagem é um boneco estilo Muppet/puppet com corpo de bambu segmentado.
-
-[Biotipo completo — copiar tabela da seção acima]
-
-Gere um perfil visual que inclua:
-1. Paleta de cores dominantes
-2. Textura da pele
-3. Forma do corpo e proporções
-4. Elementos de vestuário característicos
-5. Expressão facial típica
-6. Postura característica
-```
-
-### EN (English)
-```
-Create a design system for the character [NAME] from the Personagens Bambu universe.
-The character is a Muppet/puppet-style doll with a segmented bamboo body.
-
-[Full character biotype — copy table above]
-
-Generate a visual profile including:
-1. Dominant color palette
-2. Skin texture
-3. Body shape and proportions
-4. Signature clothing elements
-5. Typical facial expression
-6. Characteristic posture
-```
-
----
-
-## 🎬 Roteiro Flow — Trilha de 30s
-
-| Clip | Personagem | Duração | Cena | Diálogo PT |
-|---|---|---|---|---|
-| 1 | **Bambusa** | 4s | Dançando em fundo verde, braço erguido | "Bambu não é só planta — é possibilidade. Vem comigo?" |
-| 2 | **Vulgaris** | 4s | Ao lado de Bambusa, olhar curioso | "É… mas por que isso é importante? Explica melhor!" |
-| 3 | **Sabia-mamona** | 5s | Examina colmo de bambu com lupa | "A mesma planta que envenena também cura. O segredo está na dose." |
-| 4 | **Cacique-Asper** | 4s | Postura de luta, cocar ao vento | "Antes do lucro, veio a terra. Antes da terra, veio o respeito." |
-| 5 | **Taboca** | 4s | Pé no chão, chapéu de palha | "O bambu que nasce sem plantar também alimenta." |
-| 6 | **Tuldoides** | 5s | Mostra prancheta com selo de cooperativa | "Sozinho o bambu tomba. Em touceira, ele sustenta o mundo." |
-| 7 | **Elenco** | 4s | Grupo de personagens | — (música, texto: "Personagens Bambu") |
-
-### Instruções de geração
-1. Projeto no Flow: **"Personagens-Bambu-Trail-30s"**
-2. Use **@NomeDoPersonagem** para cada clip
-3. Prompt em inglês, **diálogo em português entre aspas**
-4. Modelo: **Omni Flash**, formato **16:9**, 720p
-5. **Desative o Agente**
-6. Edite no **Cap Cut**: monte na ordem, música (-10dB), fade 0.5s
+</div>

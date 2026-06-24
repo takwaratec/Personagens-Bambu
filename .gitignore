@@ -3,6 +3,9 @@ assets/raw/
 *.psd
 *.ai
 
+# Build output - GitHub Actions gera automaticamente
+site/
+
 # System
 .DS_Store
 Thumbs.db

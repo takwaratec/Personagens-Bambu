@@ -1,0 +1,73 @@
+site_name: Personagens Bambu
+site_description: Repositório de construção de personagens baseados nas 7 Lições do Bambu e 7 Pilares de Edgar Morin
+site_author: Fabio Takwara
+site_url: https://takwaratec.github.io/Personagens-Bambu/
+repo_url: https://github.com/takwaratec/Personagens-Bambu
+edit_uri: blob/main/docs/
+
+theme:
+  name: material
+  language: pt-BR
+  palette:
+    - scheme: slate
+      primary: green
+      accent: light green
+      toggle:
+        icon: material/weather-sunny
+        name: Modo claro
+    - scheme: default
+      primary: green
+      accent: light green
+      toggle:
+        icon: material/weather-night
+        name: Modo escuro
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - navigation.footer
+    - search.highlight
+    - content.code.copy
+    - content.code.annotate
+  icon:
+    logo: material/tree
+    repo: fontawesome/brands/github
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/takwaratec
+    - icon: fontawesome/brands/medium
+      link: https://fabiotakwara.medium.com/
+  generator: false
+
+copyright: Copyright &copy; 2026 Tecnologia Takwara — Conteúdo para fins educacionais
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.details
+  - admonition
+  - footnotes
+  - tables
+  - attr_list
+  - md_in_html
+
+nav:
+  - Início: index.md
+  - Personagens:
+    - Template: personagens/template.md
+    - Personagem 1: personagens/personagem-01.md
+  - Workflow:
+    - Google Flow: workflow/google-flow.md
+    - Referência Rápida: workflow/referencia-rapida.md
+    - Cap Cut & Edição: workflow/cap-cut.md
+  - Prompts:
+    - Índice: prompts/index.md
+    - Workbook Marcos Lang: prompts/workbook-referencia.md
+  - Projetos Flow:
+    - Links: flow-projetos/index.md
+  - Design System: design-system/index.md

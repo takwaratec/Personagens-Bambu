@@ -28,18 +28,29 @@
 .char-main table {
   flex: 1;
   border-collapse: collapse;
+  width: 100%;
 }
-.char-main td {
-  padding: 4px 8px;
+.char-main table th {
+  padding: 6px 10px;
+  text-align: left;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #666;
+  border-bottom: 1px solid #333;
+}
+.char-main table td {
+  padding: 5px 10px;
   border-bottom: 1px solid #222;
   font-size: 0.9rem;
   vertical-align: top;
+  color: #ccc;
 }
-.char-main td:first-child {
+.char-main table td:first-child {
   white-space: nowrap;
   color: #8ab4f8;
   font-weight: 500;
-  width: 120px;
+  width: 130px;
 }
 .char-ref {
   flex-shrink: 0;
@@ -101,19 +112,20 @@
 
 <div class="char-main">
 
-| Traço | Descrição |
-|---|---|
-| **Silhueta** | Flexível, sinuosa, curvas tipo "S" |
-| **Altura** | 1,65m (cabeça grande, corpo pequeno) |
-| **Cabeça** | Esférica, pele verde-claro / amarelo-bambu |
-| **Olhos** | Grandes, brancos, pupilas azul-rio (#2C5F7C) |
-| **Nariz** | Pequeno, esverdeado |
-| **Boca** | Sorriso largo e permanente |
-| **Cabelo** | Fibras vegetais verde-escuras espetadas |
-| **Corpo** | Segmentado como bambu (3 segmentos) |
-| **Vestuário** | Colar de flores tropicais, saia de folhas verdes |
-| **Postura** | Dançante, pé direito à frente, braço erguido |
-| **Expressão** | Alegria acolhedora |
+<table>
+  <tr><th>Traço</th><th>Descrição</th></tr>
+  <tr><td><strong>Silhueta</strong></td><td>Flexível, sinuosa, curvas tipo "S"</td></tr>
+  <tr><td><strong>Altura</strong></td><td>1,65m (cabeça grande, corpo pequeno)</td></tr>
+  <tr><td><strong>Cabeça</strong></td><td>Esférica, pele verde-claro / amarelo-bambu</td></tr>
+  <tr><td><strong>Olhos</strong></td><td>Grandes, brancos, pupilas azul-rio (#2C5F7C)</td></tr>
+  <tr><td><strong>Nariz</strong></td><td>Pequeno, esverdeado</td></tr>
+  <tr><td><strong>Boca</strong></td><td>Sorriso largo e permanente</td></tr>
+  <tr><td><strong>Cabelo</strong></td><td>Fibras vegetais verde-escuras espetadas</td></tr>
+  <tr><td><strong>Corpo</strong></td><td>Segmentado como bambu (3 segmentos)</td></tr>
+  <tr><td><strong>Vestuário</strong></td><td>Colar de flores tropicais, saia de folhas verdes</td></tr>
+  <tr><td><strong>Postura</strong></td><td>Dançante, pé direito à frente, braço erguido</td></tr>
+  <tr><td><strong>Expressão</strong></td><td>Alegria acolhedora</td></tr>
+</table>
 
 <div class="char-ref">
 <img src="../../assets/images/transparent/bambusa.png" alt="Bambusa">
@@ -143,19 +155,20 @@
 
 <div class="char-main">
 
-| Traço | Descrição |
-|---|---|
-| **Silhueta** | Curiosa, inclinada para frente |
-| **Altura** | 1,70m |
-| **Cabeça** | Grande, laranja (#E8A040) |
-| **Olhos** | Brancos, pupilas escuras, sobrancelha levantada |
-| **Nariz** | Vermelho bulboso (#D43D3D) |
-| **Boca** | Semi-aberta (vai perguntar algo) |
-| **Cabelo** | Preto espetado, desgrenhado |
-| **Corpo** | Bambu segmentado alaranjado, 3 nós |
-| **Vestuário** | Colar de flores tropicais, saia de folhas |
-| **Postura** | Inclinado, mão no queixo |
-| **Expressão** | Curiosidade, incredulidade |
+<table>
+  <tr><th>Traço</th><th>Descrição</th></tr>
+  <tr><td><strong>Silhueta</strong></td><td>Curiosa, inclinada para frente</td></tr>
+  <tr><td><strong>Altura</strong></td><td>1,70m</td></tr>
+  <tr><td><strong>Cabeça</strong></td><td>Grande, laranja (#E8A040)</td></tr>
+  <tr><td><strong>Olhos</strong></td><td>Brancos, pupilas escuras, sobrancelha levantada</td></tr>
+  <tr><td><strong>Nariz</strong></td><td>Vermelho bulboso (#D43D3D)</td></tr>
+  <tr><td><strong>Boca</strong></td><td>Semi-aberta (vai perguntar algo)</td></tr>
+  <tr><td><strong>Cabelo</strong></td><td>Preto espetado, desgrenhado</td></tr>
+  <tr><td><strong>Corpo</strong></td><td>Bambu segmentado alaranjado, 3 nós</td></tr>
+  <tr><td><strong>Vestuário</strong></td><td>Colar de flores tropicais, saia de folhas</td></tr>
+  <tr><td><strong>Postura</strong></td><td>Inclinado, mão no queixo</td></tr>
+  <tr><td><strong>Expressão</strong></td><td>Curiosidade, incredulidade</td></tr>
+</table>
 
 <div class="char-ref">
 <img src="../../assets/images/transparent/vulgaris.png" alt="Vulgaris">
@@ -180,18 +193,19 @@
 
 <div class="char-main">
 
-| Traço | Descrição |
-|---|---|
-| **Silhueta** | Curvada, anciã, 1,50m |
-| **Cabeça** | Rugosa, madeira polida bege/caramelo (#C4A882) |
-| **Cabelo** | Grisalho preso |
-| **Olhos** | Atentos, lupa dourada no olho esquerdo |
-| **Coroa** | Frutos espinhosos de mamona (#8B0000) |
-| **Corpo** | Vestido de folhas verdes trançadas |
-| **Avental** | Folha de bordo avermelhada |
-| **Acessórios** | Lupa de ouro, tubos de ensaio na cintura |
-| **Postura** | Inclinada para frente, olho na lupa |
-| **Expressão** | Curiosidade científica |
+<table>
+  <tr><th>Traço</th><th>Descrição</th></tr>
+  <tr><td><strong>Silhueta</strong></td><td>Curvada, anciã, 1,50m</td></tr>
+  <tr><td><strong>Cabeça</strong></td><td>Rugosa, madeira polida bege/caramelo (#C4A882)</td></tr>
+  <tr><td><strong>Cabelo</strong></td><td>Grisalho preso</td></tr>
+  <tr><td><strong>Olhos</strong></td><td>Atentos, lupa dourada no olho esquerdo</td></tr>
+  <tr><td><strong>Coroa</strong></td><td>Frutos espinhosos de mamona (#8B0000)</td></tr>
+  <tr><td><strong>Corpo</strong></td><td>Vestido de folhas verdes trançadas</td></tr>
+  <tr><td><strong>Avental</strong></td><td>Folha de bordo avermelhada</td></tr>
+  <tr><td><strong>Acessórios</strong></td><td>Lupa de ouro, tubos de ensaio na cintura</td></tr>
+  <tr><td><strong>Postura</strong></td><td>Inclinada para frente, olho na lupa</td></tr>
+  <tr><td><strong>Expressão</strong></td><td>Curiosidade científica</td></tr>
+</table>
 
 <div class="char-ref">
 <img src="../../assets/images/transparent/sabia-mamona.png" alt="Sabia-mamona">
@@ -221,18 +235,19 @@
 
 <div class="char-main">
 
-| Traço | Descrição |
-|---|---|
-| **Silhueta** | Base larga, guerreiro, 1,75m |
-| **Cabeça** | Madeira escura (#6B4226), angular |
-| **Cocar** | Pena central vermelha + laterais verdes e amarelas |
-| **Cabelo** | Moicano preto |
-| **Olhos** | Sobrancelhas franzidas, olhar de luta |
-| **Colar** | Penas vermelhas/verdes/amarelas |
-| **Saia** | Palha / fibras marrons |
-| **Braços** | Musculosos, punhos cerrados |
-| **Postura** | Luta, pernas abertas, punhos nos ombros |
-| **Expressão** | Feroz, protetor |
+<table>
+  <tr><th>Traço</th><th>Descrição</th></tr>
+  <tr><td><strong>Silhueta</strong></td><td>Base larga, guerreiro, 1,75m</td></tr>
+  <tr><td><strong>Cabeça</strong></td><td>Madeira escura (#6B4226), angular</td></tr>
+  <tr><td><strong>Cocar</strong></td><td>Pena central vermelha + laterais verdes e amarelas</td></tr>
+  <tr><td><strong>Cabelo</strong></td><td>Moicano preto</td></tr>
+  <tr><td><strong>Olhos</strong></td><td>Sobrancelhas franzidas, olhar de luta</td></tr>
+  <tr><td>**Colar**</td><td>Penas vermelhas/verdes/amarelas</td></tr>
+  <tr><td><strong>Saia</strong></td><td>Palha / fibras marrons</td></tr>
+  <tr><td><strong>Braços</strong></td><td>Musculosos, punhos cerrados</td></tr>
+  <tr><td><strong>Postura</strong></td><td>Luta, pernas abertas, punhos nos ombros</td></tr>
+  <tr><td><strong>Expressão</strong></td><td>Feroz, protetor</td></tr>
+</table>
 
 <div class="char-ref">
 <img src="../../assets/images/transparent/cacique-asper.png" alt="Cacique-Asper">
@@ -249,18 +264,19 @@
 
 <div class="char-main">
 
-| Traço | Descrição |
-|---|---|
-| **Silhueta** | Robusta, retangular, 1,68m |
-| **Cabeça** | Amarelo-mostarda (#D4A05A) |
-| **Chapéu** | Palha, aba larga |
-| **Olhos** | Firmes, diretos |
-| **Nariz** | Largo, achatado |
-| **Corpo** | Nós de bambu destacados (3 divisórias) |
-| **Mãos** | Calejadas, grandes |
-| **Vestuário** | Camisa simples, calças de algodão |
-| **Postura** | Erguida, pés paralelos |
-| **Expressão** | Séria, confiável |
+<table>
+  <tr><th>Traço</th><th>Descrição</th></tr>
+  <tr><td><strong>Silhueta</strong></td><td>Robusta, retangular, 1,68m</td></tr>
+  <tr><td><strong>Cabeça</strong></td><td>Amarelo-mostarda (#D4A05A)</td></tr>
+  <tr><td><strong>Chapéu</strong></td><td>Palha, aba larga</td></tr>
+  <tr><td><strong>Olhos</strong></td><td>Firmes, diretos</td></tr>
+  <tr><td><strong>Nariz</strong></td><td>Largo, achatado</td></tr>
+  <tr><td><strong>Corpo</strong></td><td>Nós de bambu destacados (3 divisórias)</td></tr>
+  <tr><td><strong>Mãos</strong></td><td>Calejadas, grandes</td></tr>
+  <tr><td><strong>Vestuário</strong></td><td>Camisa simples, calças de algodão</td></tr>
+  <tr><td><strong>Postura</strong></td><td>Erguida, pés paralelos</td></tr>
+  <tr><td><strong>Expressão</strong></td><td>Séria, confiável</td></tr>
+</table>
 
 <div class="char-ref">
 <img src="../../assets/images/transparent/taboca.png" alt="Taboca">
@@ -277,19 +293,20 @@
 
 <div class="char-main">
 
-| Traço | Descrição |
-|---|---|
-| **Silhueta** | Muppet burocrática, 1,60m |
-| **Cabeça** | Cor de papel amassado, textura de jornal |
-| **Cabelo** | Desgrenhado, preto, falho |
-| **Óculos** | Redondos, aro marrom |
-| **Olhos** | Arregalados, movimentos rápidos |
-| **Nariz** | Laranja bulboso |
-| **Boca** | Linha reta, séria |
-| **Vestuário** | Terno cinza com estampa de jornal, gravata preta |
-| **Acessórios** | Pasta de arquivo sempre na mão |
-| **Postura** | Tensa, olho no relógio |
-| **Expressão** | Calculista, gananciosa |
+<table>
+  <tr><th>Traço</th><th>Descrição</th></tr>
+  <tr><td><strong>Silhueta</strong></td><td>Muppet burocrática, 1,60m</td></tr>
+  <tr><td><strong>Cabeça</strong></td><td>Cor de papel amassado, textura de jornal</td></tr>
+  <tr><td><strong>Cabelo</strong></td><td>Desgrenhado, preto, falho</td></tr>
+  <tr><td><strong>Óculos</strong></td><td>Redondos, aro marrom</td></tr>
+  <tr><td><strong>Olhos</strong></td><td>Arregalados, movimentos rápidos</td></tr>
+  <tr><td><strong>Nariz</strong></td><td>Laranja bulboso</td></tr>
+  <tr><td><strong>Boca</strong></td><td>Linha reta, séria</td></tr>
+  <tr><td><strong>Vestuário</strong></td><td>Terno cinza com estampa de jornal, gravata preta</td></tr>
+  <tr><td><strong>Acessórios</strong></td><td>Pasta de arquivo sempre na mão</td></tr>
+  <tr><td><strong>Postura</strong></td><td>Tensa, olho no relógio</td></tr>
+  <tr><td><strong>Expressão</strong></td><td>Calculista, gananciosa</td></tr>
+</table>
 
 <div class="char-ref">
 <img src="../../assets/images/transparent/dr-burocrata.png" alt="Dr. Burocrata">
@@ -315,18 +332,19 @@
 
 <div class="char-main">
 
-| Traço | Descrição |
-|---|---|
-| **Silhueta** | Esguia, alongada, 1,80m (mais alto) |
-| **Cabeça** | Amarelo-mostarda claro (#D4C4A8) |
-| **Olhos** | Confiantes, pupilas azul cooperativo |
-| **Nariz** | Vermelho |
-| **Boca** | Sorriso aberto, receptivo |
-| **Cabelo** | Fibras vegetais arrumadas |
-| **Corpo** | Alongado, 4 segmentos de bambu |
-| **Acessórios** | Prancheta com atas, selo de cooperativa |
-| **Postura** | Aberta, braços semi-abertos |
-| **Expressão** | Solidária, confiante |
+<table>
+  <tr><th>Traço</th><th>Descrição</th></tr>
+  <tr><td><strong>Silhueta</strong></td><td>Esguia, alongada, 1,80m (mais alto)</td></tr>
+  <tr><td><strong>Cabeça</strong></td><td>Amarelo-mostarda claro (#D4C4A8)</td></tr>
+  <tr><td><strong>Olhos</strong></td><td>Confiantes, pupilas azul cooperativo</td></tr>
+  <tr><td><strong>Nariz</strong></td><td>Vermelho</td></tr>
+  <tr><td><strong>Boca</strong></td><td>Sorriso aberto, receptivo</td></tr>
+  <tr><td><strong>Cabelo</strong></td><td>Fibras vegetais arrumadas</td></tr>
+  <tr><td><strong>Corpo</strong></td><td>Alongado, 4 segmentos de bambu</td></tr>
+  <tr><td><strong>Acessórios</strong></td><td>Prancheta com atas, selo de cooperativa</td></tr>
+  <tr><td><strong>Postura</strong></td><td>Aberta, braços semi-abertos</td></tr>
+  <tr><td><strong>Expressão</strong></td><td>Solidária, confiante</td></tr>
+</table>
 
 <div class="char-ref">
 <img src="../../assets/images/transparent/tuldoides.png" alt="Tuldoides">
@@ -343,19 +361,20 @@
 
 <div class="char-main">
 
-| Traço | Descrição |
-|---|---|
-| **Silhueta** | Robusta, larga, 1,78m |
-| **Cabeça** | Terra rachada (#8B7355) |
-| **Cabelo** | Grisalho espetado |
-| **Bigode** | Grosso, grisalho |
-| **Olhos** | Desviam quando confrontados |
-| **Nariz** | Vermelho bulboso |
-| **Corpo** | Musculoso, colete de couro marrom |
-| **Acessórios** | Motosserra enferrujada, relógio dourado |
-| **Calças** | Estopa |
-| **Postura** | Desafiadora |
-| **Expressão** | Dissimulada, falsa confiança |
+<table>
+  <tr><th>Traço</th><th>Descrição</th></tr>
+  <tr><td><strong>Silhueta</strong></td><td>Robusta, larga, 1,78m</td></tr>
+  <tr><td><strong>Cabeça</strong></td><td>Terra rachada (#8B7355)</td></tr>
+  <tr><td><strong>Cabelo</strong></td><td>Grisalho espetado</td></tr>
+  <tr><td><strong>Bigode</strong></td><td>Grosso, grisalho</td></tr>
+  <tr><td><strong>Olhos</strong></td><td>Desviam quando confrontados</td></tr>
+  <tr><td><strong>Nariz</strong></td><td>Vermelho bulboso</td></tr>
+  <tr><td><strong>Corpo</strong></td><td>Musculoso, colete de couro marrom</td></tr>
+  <tr><td><strong>Acessórios</strong></td><td>Motosserra enferrujada, relógio dourado</td></tr>
+  <tr><td><strong>Calças</strong></td><td>Estopa</td></tr>
+  <tr><td><strong>Postura</strong></td><td>Desafiadora</td></tr>
+  <tr><td><strong>Expressão</strong></td><td>Dissimulada, falsa confiança</td></tr>
+</table>
 
 <div class="char-ref">
 <img src="../../assets/images/transparent/dr-motosserra.png" alt="Dr. Motosserra">

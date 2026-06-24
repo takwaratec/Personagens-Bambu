@@ -8,6 +8,10 @@
 
 ## 🌟 Bambusa — A Âncora (Bambusa spp. + Phyllostachys spp.)
 
+<div class="char-portrait">
+<img src="../assets/svg/bambusa.svg" alt="Bambusa" width="200" style="float:right; margin-left:1rem;">
+</div>
+
 | Campo | Valor |
 |---|---|
 | **Gênero botânico** | *Bambusa* + *Phyllostachys* — espécies exóticas de grande poder invasivo, abundantes em território nacional |
@@ -26,6 +30,10 @@
 
 ## 🎙️ Vulgaris — O Coadjuvante (*Bambusa vulgaris*)
 
+<div class="char-portrait">
+<img src="../assets/svg/vulgaris.svg" alt="Vulgaris" width="200" style="float:right; margin-left:1rem;">
+</div>
+
 | Campo | Valor |
 |---|---|
 | **Nome científico** | *Bambusa vulgaris* — o bambu mais comum do Brasil, também exótico |
@@ -41,6 +49,10 @@
 ---
 
 ## 🔬 Sabia-mamona — A Química dos Elementos (*Ricinus communis L.*)
+
+<div class="char-portrait">
+<img src="../assets/svg/sabia-mamona.svg" alt="Sabia-mamona" width="200" style="float:right; margin-left:1rem;">
+</div>
 
 | Campo | Valor |
 |---|---|
@@ -59,6 +71,10 @@
 
 ## 🌿 Cacique-Asper — A Memória Ancestral (*Bambusa aspera*)
 
+<div class="char-portrait">
+<img src="../assets/svg/cacique-asper.svg" alt="Cacique-Asper" width="200" style="float:right; margin-left:1rem;">
+</div>
+
 | Campo | Valor |
 |---|---|
 | **Nome científico** | *Bambusa aspera* — "áspero", como a sabedoria que vem da experiência direta com a terra |
@@ -75,6 +91,10 @@
 ---
 
 ## 🏹 Taboca — A Voz dos Tabocauis (*Bambusa taboca*)
+
+<div class="char-portrait">
+<img src="../assets/svg/taboca.svg" alt="Taboca" width="200" style="float:right; margin-left:1rem;">
+</div>
 
 | Campo | Valor |
 |---|---|
@@ -93,6 +113,10 @@
 
 ## 📊 Dr. Burocrata — O Lucro Acima da Floresta
 
+<div class="char-portrait">
+<img src="../assets/svg/dr-burocrata.svg" alt="Dr. Burocrata" width="200" style="float:right; margin-left:1rem;">
+</div>
+
 | Campo | Valor |
 |---|---|
 | **Nome** | *Dr. Burocrata* — o homem dos papéis, das planilhas, do lucro |
@@ -110,6 +134,10 @@
 
 ## 🌱 Tuldoides — A Organização Social (*Bambusa tuldoides*)
 
+<div class="char-portrait">
+<img src="../assets/svg/tuldoides.svg" alt="Tuldoides" width="200" style="float:right; margin-left:1rem;">
+</div>
+
 | Campo | Valor |
 |---|---|
 | **Nome científico** | *Bambusa tuldoides* — espécie comum, de ampla distribuição |
@@ -126,6 +154,10 @@
 ---
 
 ## ⚙️ Dr. Motosserra — O Negacionista Ético
+
+<div class="char-portrait">
+<img src="../assets/svg/dr-motosserra.svg" alt="Dr. Motosserra" width="200" style="float:right; margin-left:1rem;">
+</div>
 
 | Campo | Valor |
 |---|---|

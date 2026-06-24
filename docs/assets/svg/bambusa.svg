@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" width="400" height="500">
+  <defs>
+    <linearGradient id="bgBambusa" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a2e1a;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#0d1a0d;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="skinB" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#8BB84A;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#6B8F3A;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="500" rx="20" fill="url(#bgBambusa)"/>
+  <!-- Cabelo fibras -->
+  <path d="M140 120 Q150 80 180 100 Q200 75 220 95 Q240 70 260 100 Q270 85 280 120" fill="#2D5016" stroke="none"/>
+  <!-- Cabeça -->
+  <ellipse cx="210" cy="180" rx="75" ry="70" fill="url(#skinB)"/>
+  <!-- Olhos grandes expressivos -->
+  <ellipse cx="180" cy="170" rx="18" ry="20" fill="white"/>
+  <ellipse cx="240" cy="170" rx="18" ry="20" fill="white"/>
+  <circle cx="182" cy="172" r="10" fill="#2C5F7C"/>
+  <circle cx="242" cy="172" r="10" fill="#2C5F7C"/>
+  <circle cx="184" cy="170" r="4" fill="white"/>
+  <circle cx="244" cy="170" r="4" fill="white"/>
+  <!-- Sorriso -->
+  <path d="M185 200 Q210 225 235 200" fill="none" stroke="#2D5016" stroke-width="3" stroke-linecap="round"/>
+  <!-- Nariz -->
+  <ellipse cx="210" cy="185" rx="6" ry="4" fill="#4A7A25"/>
+  <!-- Corpo bambu segmentado -->
+  <rect x="180" y="250" width="60" height="25" rx="3" fill="#8BB84A"/>
+  <rect x="182" y="275" width="56" height="5" rx="2" fill="#2D5016"/>
+  <rect x="180" y="280" width="60" height="25" rx="3" fill="#7AA83F"/>
+  <rect x="182" y="305" width="56" height="5" rx="2" fill="#2D5016"/>
+  <rect x="180" y="310" width="60" height="25" rx="3" fill="#6B8F3A"/>
+  <!-- Colar de flores -->
+  <circle cx="160" cy="258" r="8" fill="#E8505B"/>
+  <circle cx="175" cy="250" r="7" fill="#F4A261"/>
+  <circle cx="195" cy="246" r="6" fill="#E8505B"/>
+  <circle cx="215" cy="246" r="6" fill="#C77DFF"/>
+  <circle cx="235" cy="250" r="7" fill="#E8505B"/>
+  <circle cx="250" cy="258" r="8" fill="#F4A261"/>
+  <!-- Saias de folhas -->
+  <path d="M160 335 Q140 380 130 420 L180 410 Q170 380 160 335Z" fill="#6B8F3A"/>
+  <path d="M160 335 Q155 390 150 420 L180 410 Q165 380 160 335Z" fill="#8BB84A"/>
+  <path d="M240 335 Q260 380 270 420 L220 410 Q230 380 240 335Z" fill="#6B8F3A"/>
+  <path d="M240 335 Q245 390 250 420 L220 410 Q235 380 240 335Z" fill="#8BB84A"/>
+  <path d="M185 340 Q190 400 200 430 L215 430 Q210 400 215 340Z" fill="#7AA83F"/>
+  <!-- Braços de bambu -->
+  <rect x="130" y="255" width="12" height="50" rx="4" fill="#8BB84A" transform="rotate(-15,136,280)"/>
+  <circle cx="134" cy="307" r="6" fill="#7AA83F"/>
+  <rect x="260" y="255" width="12" height="50" rx="4" fill="#8BB84A" transform="rotate(15,266,280)"/>
+  <circle cx="268" cy="307" r="6" fill="#7AA83F"/>
+  <!-- Nome -->
+  <text x="200" y="470" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#8BB84A" font-style="italic">Bambusa</text>
+</svg>

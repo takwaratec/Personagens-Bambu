@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" width="400" height="500">
+  <defs>
+    <linearGradient id="bgS" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a0d1a;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#0d050d;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="500" rx="20" fill="url(#bgS)"/>
+  <ellipse cx="210" cy="170" rx="70" ry="65" fill="#C4A882"/>
+  <path d="M160 140 Q170 115 195 125 Q210 110 225 122 Q240 112 255 128 Q265 120 268 145" fill="#888" stroke="none"/>
+  <line x1="175" y1="100" x2="178" y2="140" stroke="#888" stroke-width="2"/>
+  <line x1="245" y1="100" x2="242" y2="140" stroke="#888" stroke-width="2"/>
+  <ellipse cx="178" cy="162" rx="15" ry="17" fill="white"/>
+  <ellipse cx="242" cy="162" rx="15" ry="17" fill="white"/>
+  <circle cx="180" cy="164" r="8" fill="#5C3D2E"/>
+  <circle cx="244" cy="164" r="8" fill="#5C3D2E"/>
+  <circle cx="181" cy="162" r="3" fill="white"/>
+  <circle cx="245" cy="162" r="3" fill="white"/>
+  <ellipse cx="210" cy="188" rx="10" ry="7" fill="#A0522D"/>
+  <path d="M185 200 Q210 185 235 200" fill="none" stroke="#5C3D2E" stroke-width="2" stroke-linecap="round"/>
+  <line x1="170" y1="140" x2="160" y2="135" stroke="#5C3D2E" stroke-width="2"/>
+  <line x1="175" y1="138" x2="165" y2="130" stroke="#5C3D2E" stroke-width="2"/>
+  <line x1="248" y1="138" x2="258" y2="130" stroke="#5C3D2E" stroke-width="2"/>
+  <line x1="245" y1="140" x2="255" y2="135" stroke="#5C3D2E" stroke-width="2"/>
+  <!-- Lupa -->
+  <circle cx="160" cy="155" r="22" fill="none" stroke="#D4AF37" stroke-width="3"/>
+  <circle cx="160" cy="155" r="19" fill="none" stroke="#D4AF37" stroke-width="1" opacity="0.5"/>
+  <line x1="177" y1="172" x2="192" y2="192" stroke="#D4AF37" stroke-width="4" stroke-linecap="round"/>
+  <!-- Coroa de frutos -->
+  <circle cx="170" cy="108" r="6" fill="#8B0000"/>
+  <circle cx="190" cy="100" r="5" fill="#8B0000"/>
+  <circle cx="210" cy="97" r="6" fill="#8B0000"/>
+  <circle cx="230" cy="100" r="5" fill="#8B0000"/>
+  <circle cx="250" cy="108" r="6" fill="#8B0000"/>
+  <path d="M165 112 Q190 90 255 112" fill="none" stroke="#6B8F3A" stroke-width="2"/>
+  <!-- Corpo vestido de folhas -->
+  <rect x="175" y="240" width="70" height="30" rx="3" fill="#C4A882"/>
+  <rect x="177" y="270" width="66" height="5" rx="2" fill="#6B8F3A"/>
+  <path d="M160 275 Q175 300 190 330 L210 330 Q200 300 195 275Z" fill="#6B8F3A"/>
+  <path d="M240 275 Q225 300 210 330 L190 330 Q200 300 205 275Z" fill="#4A7A25"/>
+  <path d="M170 280 Q185 320 195 360 L210 360 Q200 320 200 280Z" fill="#5C8A30"/>
+  <!-- Avental folha de bordo -->
+  <path d="M190 310 L195 295 L200 310 L195 305Z" fill="#8B4513"/>
+  <path d="M200 310 L205 295 L210 310 L205 305Z" fill="#8B4513"/>
+  <path d="M195 310 L210 310 L220 350 L200 360 L180 350Z" fill="#A0522D" opacity="0.8"/>
+  <!-- Braços -->
+  <rect x="130" y="245" width="10" height="45" rx="3" fill="#C4A882" transform="rotate(-10,135,267)"/>
+  <rect x="260" y="245" width="10" height="45" rx="3" fill="#C4A882" transform="rotate(10,265,267)"/>
+  <text x="200" y="470" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#D4AF37" font-style="italic">Sabia-mamona</text>
+</svg>

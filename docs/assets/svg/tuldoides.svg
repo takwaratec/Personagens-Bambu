@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" width="400" height="500">
+  <rect width="400" height="500" rx="20" fill="#0d1a0d"/>
+  <!-- Cabelo fibras vegetais -->
+  <path d="M165 120 Q175 85 200 100 Q215 78 230 95 Q245 80 255 110 Q265 100 268 130" fill="#3d5a2b" stroke="none"/>
+  <!-- Cabeça -->
+  <ellipse cx="210" cy="178" rx="68" ry="65" fill="#D4C4A8"/>
+  <!-- Olhos confiantes -->
+  <ellipse cx="180" cy="170" rx="15" ry="16" fill="white"/>
+  <ellipse cx="240" cy="170" rx="15" ry="16" fill="white"/>
+  <circle cx="182" cy="172" r="9" fill="#2C5F7C"/>
+  <circle cx="242" cy="172" r="9" fill="#2C5F7C"/>
+  <circle cx="184" cy="170" r="3" fill="white"/>
+  <circle cx="244" cy="170" r="3" fill="white"/>
+  <!-- Sobrancelhas abertas -->
+  <line x1="168" y1="152" x2="192" y2="153" stroke="#3d2b1a" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="252" y1="152" x2="228" y2="153" stroke="#3d2b1a" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Nariz -->
+  <ellipse cx="210" cy="190" rx="7" ry="4" fill="#D43D3D"/>
+  <!-- Sorriso aberto -->
+  <path d="M188 205 Q210 225 232 205" fill="none" stroke="#3d2b1a" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Corpo esguio -->
+  <rect x="182" y="248" width="56" height="25" rx="3" fill="#D4C4A8"/>
+  <rect x="184" y="273" width="52" height="5" rx="2" fill="#8B5E3C"/>
+  <rect x="182" y="278" width="56" height="25" rx="3" fill="#C4B498"/>
+  <rect x="184" y="303" width="52" height="5" rx="2" fill="#8B5E3C"/>
+  <rect x="182" y="308" width="56" height="20" rx="3" fill="#B4A488"/>
+  <!-- Prancheta -->
+  <rect x="245" y="252" width="28" height="38" rx="2" fill="#8B5E3C"/>
+  <rect x="247" y="254" width="24" height="34" rx="1" fill="#F5E6D0"/>
+  <line x1="250" y1="260" x2="268" y2="260" stroke="#666" stroke-width="0.8"/>
+  <line x1="250" y1="266" x2="268" y2="266" stroke="#666" stroke-width="0.8"/>
+  <line x1="250" y1="272" x2="268" y2="272" stroke="#666" stroke-width="0.8"/>
+  <!-- Braços -->
+  <rect x="135" y="250" width="10" height="48" rx="3" fill="#D4C4A8" transform="rotate(-8,140,274)"/>
+  <rect x="258" y="250" width="10" height="48" rx="3" fill="#D4C4A8" transform="rotate(8,263,274)"/>
+  <circle cx="140" cy="300" r="6" fill="#C4B498"/>
+  <circle cx="270" cy="300" r="6" fill="#C4B498"/>
+  <!-- Selo cooperativa -->
+  <circle cx="145" cy="310" r="10" fill="none" stroke="#2C5F7C" stroke-width="2"/>
+  <text x="145" y="313" text-anchor="middle" font-size="6" fill="#2C5F7C" font-weight="bold">COOP</text>
+  <!-- Calças -->
+  <rect x="185" y="328" width="20" height="40" rx="2" fill="#8B5E3C"/>
+  <rect x="213" y="328" width="20" height="40" rx="2" fill="#8B5E3C"/>
+  <text x="200" y="470" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#8B5E3C" font-style="italic">Tuldoides</text>
+</svg>

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" width="400" height="500">
+  <rect width="400" height="500" rx="20" fill="#1a0d05"/>
+  <!-- Moicano -->
+  <path d="M170 115 Q180 80 200 90 Q210 70 230 85 Q240 75 245 115" fill="#1a1a2e"/>
+  <!-- Cocar pena central -->
+  <path d="M200 85 L195 30 L205 30Z" fill="#D43D3D"/>
+  <path d="M180 95 L172 40 L182 42Z" fill="#4CAF50"/>
+  <path d="M220 95 L228 40 L218 42Z" fill="#F4A261"/>
+  <!-- Cabeça -->
+  <ellipse cx="205" cy="170" rx="68" ry="65" fill="#6B4226"/>
+  <!-- Olhos -->
+  <ellipse cx="175" cy="162" rx="14" ry="14" fill="white"/>
+  <ellipse cx="235" cy="162" rx="14" ry="14" fill="white"/>
+  <circle cx="177" cy="164" r="7" fill="#1a1a2e"/>
+  <circle cx="237" cy="164" r="7" fill="#1a1a2e"/>
+  <!-- Postura de luta - sobrancelhas franzidas -->
+  <line x1="160" y1="145" x2="180" y2="150" stroke="#3d1f0a" stroke-width="3" stroke-linecap="round"/>
+  <line x1="240" y1="145" x2="220" y2="150" stroke="#3d1f0a" stroke-width="3" stroke-linecap="round"/>
+  <!-- Nariz -->  
+  <ellipse cx="205" cy="180" rx="8" ry="5" fill="#3d1f0a"/>
+  <!-- Boca - rugido -->
+  <path d="M185 195 Q205 190 225 195 L220 215 Q205 220 190 215Z" fill="#3d1f0a"/>
+  <rect x="192" y="200" width="5" height="8" rx="2" fill="white"/>
+  <rect x="203" y="198" width="5" height="10" rx="2" fill="white"/>
+  <rect x="213" y="200" width="5" height="8" rx="2" fill="white"/>
+  <!-- Colar de penas -->
+  <path d="M148 230 Q155 240 160 235 L165 242 Q170 235 175 240 L180 245 Q185 238 190 244 L195 248 Q200 240 205 246 L210 248 Q215 240 220 244 L225 238 Q230 245 235 240 L240 242 Q245 235 252 230" fill="none" stroke="#D43D3D" stroke-width="3"/>
+  <path d="M150 228 L145 248L155 240Z" fill="#D43D3D"/>
+  <path d="M165 236 L160 258L172 248Z" fill="#4CAF50"/>
+  <path d="M185 242 L182 262L192 252Z" fill="#F4A261"/>
+  <path d="M210 245 L212 265L220 252Z" fill="#D43D3D"/>
+  <path d="M235 240 L240 260L245 248Z" fill="#4CAF50"/>
+  <path d="M248 232 L255 250L258 238Z" fill="#F4A261"/>
+  <!-- Corpo articulado madeira -->
+  <rect x="178" y="255" width="54" height="30" rx="4" fill="#6B4226"/>
+  <circle cx="178" cy="270" r="5" fill="#3d1f0a"/>
+  <circle cx="232" cy="270" r="5" fill="#3d1f0a"/>
+  <!-- Saia de palha -->
+  <path d="M165 285 L158 340 L175 330Z" fill="#8B5E3C"/>
+  <path d="M170 285 L165 350 L185 330Z" fill="#A0724D"/>
+  <path d="M185 285 L182 360 L200 335Z" fill="#8B5E3C"/>
+  <path d="M210 285 L212 360 M200 335 L220 335Z" fill="#A0724D"/>
+  <path d="M225 285 L230 350 L240 330Z" fill="#8B5E3C"/>
+  <path d="M240 285 L248 340 L255 325Z" fill="#A0724D"/>
+  <!-- Braços em punhos cerrados -->
+  <rect x="122" y="258" width="12" height="55" rx="4" fill="#6B4226" transform="rotate(-25,128,285)"/>
+  <circle cx="118" cy="310" r="10" fill="#6B4226"/>
+  <rect x="268" y="258" width="12" height="55" rx="4" fill="#6B4226" transform="rotate(20,274,285)"/>
+  <circle cx="280" cy="310" r="10" fill="#6B4226"/>
+  <text x="200" y="470" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#A0724D" font-style="italic">Cacique-Asper</text>
+</svg>

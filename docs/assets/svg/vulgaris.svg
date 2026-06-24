@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" width="400" height="500">
+  <defs>
+    <linearGradient id="bgV" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#2a1a0a;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#1a0d05;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="500" rx="20" fill="url(#bgV)"/>
+  <path d="M140 110 Q160 70 200 95 Q220 65 250 90 Q270 80 275 120" fill="#1a1a2e" stroke="none"/>
+  <ellipse cx="210" cy="180" rx="72" ry="68" fill="#E8A040"/>
+  <ellipse cx="178" cy="170" rx="16" ry="18" fill="white"/>
+  <ellipse cx="242" cy="170" rx="16" ry="18" fill="white"/>
+  <circle cx="180" cy="172" r="9" fill="#1a1a2e"/>
+  <circle cx="244" cy="172" r="9" fill="#1a1a2e"/>
+  <circle cx="182" cy="169" r="3" fill="white"/>
+  <circle cx="246" cy="169" r="3" fill="white"/>
+  <ellipse cx="210" cy="198" rx="14" ry="10" fill="#D43D3D"/>
+  <path d="M185 215 Q210 240 235 215" fill="none" stroke="#1a1a2e" stroke-width="3" stroke-linecap="round"/>
+  <rect x="178" y="250" width="64" height="22" rx="3" fill="#E8A040"/>
+  <rect x="180" y="272" width="60" height="4" rx="2" fill="#8B5E3C"/>
+  <rect x="178" y="276" width="64" height="22" rx="3" fill="#D49134"/>
+  <rect x="180" y="298" width="60" height="4" rx="2" fill="#8B5E3C"/>
+  <rect x="178" y="302" width="64" height="22" rx="3" fill="#C07E2A"/>
+  <circle cx="155" cy="255" r="7" fill="#E8505B"/>
+  <circle cx="170" cy="248" r="6" fill="#F4A261"/>
+  <circle cx="195" cy="244" r="6" fill="#2C5F7C"/>
+  <circle cx="220" cy="244" r="6" fill="#E8505B"/>
+  <circle cx="245" cy="248" r="6" fill="#F4A261"/>
+  <circle cx="258" cy="255" r="7" fill="#2C5F7C"/>
+  <path d="M158 325 Q135 370 125 420 L178 408 Q165 370 158 325Z" fill="#D49134"/>
+  <path d="M158 325 Q150 385 145 420 L178 408 Q162 370 158 325Z" fill="#E8A040"/>
+  <path d="M242 325 Q265 370 275 420 L222 408 Q235 370 242 325Z" fill="#D49134"/>
+  <path d="M242 325 Q250 385 255 420 L222 408 Q238 370 242 325Z" fill="#E8A040"/>
+  <path d="M185 330 Q192 395 200 425 L215 425 Q210 395 215 330Z" fill="#C07E2A"/>
+  <rect x="128" y="252" width="10" height="50" rx="3" fill="#E8A040" transform="rotate(-18,133,277)"/>
+  <circle cx="131" cy="305" r="5" fill="#D49134"/>
+  <rect x="262" y="252" width="10" height="50" rx="3" fill="#E8A040" transform="rotate(18,267,277)"/>
+  <circle cx="269" cy="305" r="5" fill="#D49134"/>
+  <text x="200" y="470" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#E8A040" font-style="italic">Vulgaris</text>
+</svg>

@@ -60,6 +60,7 @@ nav:
   - Início: index.md
   - Personagens:
     - Elenco Completo: personagens/elenco.md
+    - Biotipos & Roteiro: personagens/biotipos-e-roteiro.md
     - Template: personagens/template.md
     - Personagem 01: personagens/personagem-01.md
   - Workflow:

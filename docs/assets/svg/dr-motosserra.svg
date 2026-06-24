@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" width="400" height="500">
+  <rect width="400" height="500" rx="20" fill="#1a0a0a"/>
+  <!-- Cabelo grisalho espetado -->
+  <path d="M155 120 Q170 80 200 95 Q220 70 245 90 Q260 78 265 115" fill="#555" stroke="none"/>
+  <!-- Cabeça rachada -->
+  <ellipse cx="210" cy="180" rx="72" ry="70" fill="#8B7355"/>
+  <path d="M160 145 Q175 160 165 180" fill="none" stroke="#3d2b1a" stroke-width="1.5"/>
+  <path d="M250 140 Q245 165 255 185" fill="none" stroke="#3d2b1a" stroke-width="1.5"/>
+  <path d="M200 120 Q195 145 205 165" fill="none" stroke="#3d2b1a" stroke-width="1.5"/>
+  <!-- Bigode grosso -->
+  <path d="M175 210 Q190 220 210 215 Q230 220 245 210" fill="none" stroke="#555" stroke-width="5" stroke-linecap="round"/>
+  <!-- Olhos que desviam -->
+  <ellipse cx="180" cy="170" rx="14" ry="16" fill="white"/>
+  <ellipse cx="240" cy="170" rx="14" ry="16" fill="white"/>
+  <circle cx="184" cy="172" r="7" fill="#2C5F7C"/>
+  <circle cx="236" cy="172" r="7" fill="#2C5F7C"/>
+  <!-- Sobrancelhas grossas -->
+  <line x1="165" y1="152" x2="195" y2="155" stroke="#3d2b1a" stroke-width="4" stroke-linecap="round"/>
+  <line x1="255" y1="152" x2="225" y2="155" stroke="#3d2b1a" stroke-width="4" stroke-linecap="round"/>
+  <!-- Nariz -->
+  <ellipse cx="210" cy="192" rx="10" ry="7" fill="#A0522D"/>
+  <!-- Sorriso dissimulado -->
+  <path d="M185 225 Q210 235 235 225" fill="none" stroke="#3d2b1a" stroke-width="2" stroke-linecap="round"/>
+  <!-- Colete couro -->
+  <rect x="175" y="255" width="65" height="35" rx="3" fill="#5C3D2E"/>
+  <line x1="195" y1="255" x2="195" y2="290" stroke="#3d2b1a" stroke-width="1"/>
+  <line x1="220" y1="255" x2="220" y2="290" stroke="#3d2b1a" stroke-width="1"/>
+  <!-- Barriga -->
+  <rect x="180" y="290" width="55" height="30" rx="3" fill="#8B7355"/>
+  <path d="M185 300 Q207 315 230 300" fill="none" stroke="#3d2b1a" stroke-width="1"/>
+  <!-- Calças estopa -->
+  <rect x="178" y="320" width="25" height="45" rx="2" fill="#666"/>
+  <rect x="212" y="320" width="25" height="45" rx="2" fill="#666"/>
+  <!-- Botas -->
+  <rect x="172" y="360" width="32" height="15" rx="3" fill="#3d2b1a"/>
+  <rect x="210" y="360" width="32" height="15" rx="3" fill="#3d2b1a"/>
+  <!-- Motosserra (lado) -->
+  <rect x="138" y="260" width="16" height="45" rx="3" fill="#8B4513" transform="rotate(-15,146,282)"/>
+  <rect x="140" y="300" width="35" height="12" rx="2" fill="#666" transform="rotate(-15,146,282)"/>
+  <circle cx="158" cy="305" r="8" fill="#555" transform="rotate(-15,146,282)"/>
+  <path d="M138 260 L148 255 L152 262Z" fill="#D43D3D" transform="rotate(-15,146,282)"/>
+  <!-- Relógio -->
+  <circle cx="270" cy="268" r="8" fill="#D4AF37"/>
+  <circle cx="270" cy="268" r="6" fill="#F5E6D0"/>
+  <line x1="270" y1="264" x2="270" y2="268" stroke="#3d2b1a" stroke-width="1.5"/>
+  <line x1="270" y1="268" x2="274" y2="270" stroke="#3d2b1a" stroke-width="1.5"/>
+  <!-- Braço direito -->
+  <rect x="260" y="255" width="14" height="50" rx="4" fill="#8B7355" transform="rotate(8,267,280)"/>
+  <text x="200" y="470" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#8B7355" font-style="italic">Dr. Motosserra</text>
+</svg>
